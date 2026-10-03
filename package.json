@@ -1,0 +1,16 @@
+{
+  "name": "japan-media",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "data": "python3 scripts/build_kakei.py",
+    "dev": "vite --host 127.0.0.1 --port 5173",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4173",
+    "build:spend": "SITE=spend vite build"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "vite": "^6.2.0"
+  }
+}

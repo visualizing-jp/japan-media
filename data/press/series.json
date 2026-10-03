@@ -1,0 +1,4067 @@
+{
+  "question": "日本人は新聞をどれだけ取ってきたか",
+  "yearStart": 1965,
+  "yearEnd": 2025,
+  "setAsOne": {
+    "total": [
+      {
+        "year": 1965,
+        "value": 29776465,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1966,
+        "value": 30935235,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1967,
+        "value": 32447141,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1968,
+        "value": 33792078,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1969,
+        "value": 35073213,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1970,
+        "value": 36303928,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1971,
+        "value": 36562450,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1972,
+        "value": 38162063,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1973,
+        "value": 39847332,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1974,
+        "value": 40005526,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1975,
+        "value": 40512598,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1976,
+        "value": 42119566,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1977,
+        "value": 43113521,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1978,
+        "value": 44276615,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1979,
+        "value": 45851852,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1980,
+        "value": 46391096,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1981,
+        "value": 47256150,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1982,
+        "value": 47993030,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1983,
+        "value": 47040709,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1984,
+        "value": 47515488,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1985,
+        "value": 48231671,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1986,
+        "value": 48569364,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1987,
+        "value": 49831896,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1988,
+        "value": 50597565,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1989,
+        "value": 51063353,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1990,
+        "value": 51907538,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1991,
+        "value": 52026372,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1992,
+        "value": 51938092,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1993,
+        "value": 52433451,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1994,
+        "value": 52600502,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1995,
+        "value": 52854538,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1996,
+        "value": 53555803,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1997,
+        "value": 53765074,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1998,
+        "value": 53669866,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1999,
+        "value": 53757281,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2000,
+        "value": 53708831,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2001,
+        "value": 53680753,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2002,
+        "value": 53198444,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2003,
+        "value": 52874959,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2004,
+        "value": 53021564,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2005,
+        "value": 52568032,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2006,
+        "value": 52310478,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2007,
+        "value": 52028671,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2008,
+        "value": 51491409,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2009,
+        "value": 50352831,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2010,
+        "value": 49321840,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2011,
+        "value": 48345304,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2012,
+        "value": 47777913,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2013,
+        "value": 46999468,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2014,
+        "value": 45362672,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2015,
+        "value": 44246688,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2016,
+        "value": 43276147,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2017,
+        "value": 42128189,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2018,
+        "value": 39901576,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2019,
+        "value": 37811248,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2020,
+        "value": 35091944,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2021,
+        "value": 33027135,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2022,
+        "value": 30846631,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2023,
+        "value": 28590486,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2024,
+        "value": 26616578,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2025,
+        "value": 24868122,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      }
+    ],
+    "general": [
+      {
+        "year": 1965,
+        "value": 26794713,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1966,
+        "value": 27367031,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1967,
+        "value": 28556314,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1968,
+        "value": 29750759,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1969,
+        "value": 30646021,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1970,
+        "value": 31875907,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1971,
+        "value": 32399739,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1972,
+        "value": 33797786,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1973,
+        "value": 35199798,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1974,
+        "value": 35412951,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1975,
+        "value": 35921496,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1976,
+        "value": 37371351,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1977,
+        "value": 38127716,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1978,
+        "value": 39228302,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1979,
+        "value": 40476282,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1980,
+        "value": 40944751,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1981,
+        "value": 41639715,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1982,
+        "value": 42166062,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1983,
+        "value": 41616862,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1984,
+        "value": 42096162,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1985,
+        "value": 42673198,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1986,
+        "value": 43074181,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1987,
+        "value": 44250975,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1988,
+        "value": 44960104,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1989,
+        "value": 45351852,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1990,
+        "value": 46059774,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1991,
+        "value": 46029154,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1992,
+        "value": 45748937,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1993,
+        "value": 46072744,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1994,
+        "value": 46224993,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1995,
+        "value": 46511872,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1996,
+        "value": 46975839,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1997,
+        "value": 47262982,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1998,
+        "value": 47289617,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1999,
+        "value": 47464599,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2000,
+        "value": 47401669,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2001,
+        "value": 47559052,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2002,
+        "value": 47390027,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2003,
+        "value": 47282645,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2004,
+        "value": 47469987,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2005,
+        "value": 47189832,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2006,
+        "value": 47056527,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2007,
+        "value": 46963136,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2008,
+        "value": 46563681,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2009,
+        "value": 45659885,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2010,
+        "value": 44906720,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2011,
+        "value": 44091335,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2012,
+        "value": 43723161,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2013,
+        "value": 43126352,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2014,
+        "value": 41687125,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2015,
+        "value": 40691869,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2016,
+        "value": 39821106,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2017,
+        "value": 38763641,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2018,
+        "value": 36823021,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2019,
+        "value": 34877964,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2020,
+        "value": 32454796,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2021,
+        "value": 30657153,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2022,
+        "value": 28694915,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2023,
+        "value": 26674129,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2024,
+        "value": 24938756,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2025,
+        "value": 23373706,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      }
+    ],
+    "sports": [
+      {
+        "year": 1965,
+        "value": 2981752,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1966,
+        "value": 3568204,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1967,
+        "value": 3890827,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1968,
+        "value": 4041319,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1969,
+        "value": 4427192,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1970,
+        "value": 4428021,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1971,
+        "value": 4162711,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1972,
+        "value": 4364277,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1973,
+        "value": 4647534,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1974,
+        "value": 4592575,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1975,
+        "value": 4591102,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1976,
+        "value": 4748215,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1977,
+        "value": 4985805,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1978,
+        "value": 5048313,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1979,
+        "value": 5375570,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1980,
+        "value": 5446345,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1981,
+        "value": 5616435,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1982,
+        "value": 5826968,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1983,
+        "value": 5423847,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1984,
+        "value": 5419326,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1985,
+        "value": 5558473,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1986,
+        "value": 5495183,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1987,
+        "value": 5580921,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1988,
+        "value": 5637461,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1989,
+        "value": 5711501,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1990,
+        "value": 5847764,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1991,
+        "value": 5997218,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1992,
+        "value": 6189155,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1993,
+        "value": 6360707,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1994,
+        "value": 6375509,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1995,
+        "value": 6342666,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1996,
+        "value": 6579964,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1997,
+        "value": 6502092,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1998,
+        "value": 6380249,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1999,
+        "value": 6292682,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2000,
+        "value": 6307162,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2001,
+        "value": 6121701,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2002,
+        "value": 5808417,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2003,
+        "value": 5592314,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2004,
+        "value": 5551577,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2005,
+        "value": 5378200,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2006,
+        "value": 5253951,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2007,
+        "value": 5065535,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2008,
+        "value": 4927728,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2009,
+        "value": 4692946,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2010,
+        "value": 4415120,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2011,
+        "value": 4253969,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2012,
+        "value": 4054752,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2013,
+        "value": 3873116,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2014,
+        "value": 3675547,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2015,
+        "value": 3554819,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2016,
+        "value": 3455041,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2017,
+        "value": 3364548,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2018,
+        "value": 3078555,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2019,
+        "value": 2933284,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2020,
+        "value": 2637148,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2021,
+        "value": 2369982,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2022,
+        "value": 2151716,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2023,
+        "value": 1916357,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2024,
+        "value": 1677822,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2025,
+        "value": 1494416,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      }
+    ],
+    "set": [
+      {
+        "year": 1965,
+        "value": 14357769,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1966,
+        "value": 14464094,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1967,
+        "value": 15108249,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1968,
+        "value": 15912263,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1969,
+        "value": 16424536,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1970,
+        "value": 16718956,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1971,
+        "value": 16839364,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1972,
+        "value": 17682995,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1973,
+        "value": 18169036,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1974,
+        "value": 17814893,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1975,
+        "value": 18067016,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1976,
+        "value": 18662297,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1977,
+        "value": 19107123,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1978,
+        "value": 19455647,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1979,
+        "value": 20028650,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1980,
+        "value": 19865790,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1981,
+        "value": 20036413,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1982,
+        "value": 20149115,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1983,
+        "value": 19741291,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1984,
+        "value": 19864756,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1985,
+        "value": 20064803,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1986,
+        "value": 20084045,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1987,
+        "value": 20361672,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1988,
+        "value": 20573993,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1989,
+        "value": 20393722,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1990,
+        "value": 20616337,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1991,
+        "value": 20510091,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1992,
+        "value": 19752398,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1993,
+        "value": 19609860,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1994,
+        "value": 19323903,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1995,
+        "value": 19192139,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1996,
+        "value": 19149499,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1997,
+        "value": 18933926,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1998,
+        "value": 18739890,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1999,
+        "value": 18460759,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2000,
+        "value": 18187498,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2001,
+        "value": 18013395,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2002,
+        "value": 17616627,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2003,
+        "value": 17464928,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2004,
+        "value": 17341993,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2005,
+        "value": 17111533,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2006,
+        "value": 16789314,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2007,
+        "value": 16408728,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2008,
+        "value": 15715332,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2009,
+        "value": 14727162,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2010,
+        "value": 13877495,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2011,
+        "value": 13235658,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2012,
+        "value": 12876612,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2013,
+        "value": 12396510,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2014,
+        "value": 11356360,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2015,
+        "value": 10874446,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2016,
+        "value": 10413426,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2017,
+        "value": 9700510,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2018,
+        "value": 9025146,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2019,
+        "value": 8422099,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2020,
+        "value": 7252724,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2021,
+        "value": 6484982,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2022,
+        "value": 5928317,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2023,
+        "value": 4456199,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2024,
+        "value": 3916505,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2025,
+        "value": 3375969,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      }
+    ],
+    "morning": [
+      {
+        "year": 1965,
+        "value": 13455830,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1966,
+        "value": 14339285,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1967,
+        "value": 15182391,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1968,
+        "value": 15812779,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1969,
+        "value": 16485805,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1970,
+        "value": 17187422,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1971,
+        "value": 17506545,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1972,
+        "value": 18187184,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1973,
+        "value": 19429468,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1974,
+        "value": 19874190,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1975,
+        "value": 20242379,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1976,
+        "value": 21205533,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1977,
+        "value": 21786635,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1978,
+        "value": 22580681,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1979,
+        "value": 23510031,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1980,
+        "value": 24270632,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1981,
+        "value": 24935353,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1982,
+        "value": 25679133,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1983,
+        "value": 25196329,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1984,
+        "value": 25545381,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1985,
+        "value": 26038088,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1986,
+        "value": 26453918,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1987,
+        "value": 27457961,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1988,
+        "value": 28041577,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1989,
+        "value": 28711768,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1990,
+        "value": 29268208,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1991,
+        "value": 29551973,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1992,
+        "value": 30195529,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1993,
+        "value": 30780669,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1994,
+        "value": 31269026,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1995,
+        "value": 31645109,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1996,
+        "value": 32421288,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1997,
+        "value": 32841903,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1998,
+        "value": 32952880,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1999,
+        "value": 33381465,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2000,
+        "value": 33702727,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2001,
+        "value": 33862600,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2002,
+        "value": 33900896,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2003,
+        "value": 33781260,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2004,
+        "value": 34066442,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2005,
+        "value": 33927821,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2006,
+        "value": 34047660,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2007,
+        "value": 34174558,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2008,
+        "value": 34403818,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2009,
+        "value": 34399779,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2010,
+        "value": 34259015,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2011,
+        "value": 33975622,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2012,
+        "value": 33827147,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2013,
+        "value": 33552159,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2014,
+        "value": 32979682,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2015,
+        "value": 32365532,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2016,
+        "value": 31889399,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2017,
+        "value": 31487725,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2018,
+        "value": 29993652,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2019,
+        "value": 28554249,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2020,
+        "value": 27064065,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2021,
+        "value": 25914024,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2022,
+        "value": 24400468,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2023,
+        "value": 23681695,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2024,
+        "value": 22297326,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2025,
+        "value": 21145804,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      }
+    ],
+    "evening": [
+      {
+        "year": 1965,
+        "value": 1962866,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1966,
+        "value": 2131856,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1967,
+        "value": 2156501,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1968,
+        "value": 2067036,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1969,
+        "value": 2162872,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1970,
+        "value": 2397550,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1971,
+        "value": 2216541,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1972,
+        "value": 2291884,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1973,
+        "value": 2248828,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1974,
+        "value": 2316443,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1975,
+        "value": 2203203,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1976,
+        "value": 2251736,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1977,
+        "value": 2219763,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1978,
+        "value": 2240287,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1979,
+        "value": 2313171,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1980,
+        "value": 2254674,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1981,
+        "value": 2284384,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1982,
+        "value": 2164782,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1983,
+        "value": 2103089,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1984,
+        "value": 2105351,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1985,
+        "value": 2128780,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1986,
+        "value": 2031401,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1987,
+        "value": 2012263,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1988,
+        "value": 1981995,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1989,
+        "value": 1957863,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1990,
+        "value": 2022993,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1991,
+        "value": 1964308,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1992,
+        "value": 1990165,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1993,
+        "value": 2042922,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1994,
+        "value": 2007573,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1995,
+        "value": 2017290,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1996,
+        "value": 1985016,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1997,
+        "value": 1989245,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1998,
+        "value": 1977096,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 1999,
+        "value": 1915057,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2000,
+        "value": 1818606,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2001,
+        "value": 1804758,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2002,
+        "value": 1680921,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2003,
+        "value": 1628771,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2004,
+        "value": 1613129,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2005,
+        "value": 1528678,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2006,
+        "value": 1473504,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2007,
+        "value": 1445385,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2008,
+        "value": 1372259,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2009,
+        "value": 1225890,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2010,
+        "value": 1185330,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2011,
+        "value": 1134024,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2012,
+        "value": 1074154,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2013,
+        "value": 1050799,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2014,
+        "value": 1026630,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2015,
+        "value": 1006710,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2016,
+        "value": 973322,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2017,
+        "value": 939954,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2018,
+        "value": 882778,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2019,
+        "value": 834900,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2020,
+        "value": 775155,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2021,
+        "value": 628129,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2022,
+        "value": 517846,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2023,
+        "value": 452592,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2024,
+        "value": 402747,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      },
+      {
+        "year": 2025,
+        "value": 346349,
+        "segment": "set-as-one",
+        "source": "circulation01"
+      }
+    ],
+    "perHousehold": [
+      {
+        "year": 1965,
+        "value": 1.2,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1966,
+        "value": 1.21,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1967,
+        "value": 1.23,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1968,
+        "value": 1.25,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1969,
+        "value": 1.24,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1970,
+        "value": 1.24,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1971,
+        "value": 1.22,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1972,
+        "value": 1.23,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1973,
+        "value": 1.25,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1974,
+        "value": 1.23,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1975,
+        "value": 1.22,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1976,
+        "value": 1.24,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1977,
+        "value": 1.25,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1978,
+        "value": 1.27,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1979,
+        "value": 1.3,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1980,
+        "value": 1.29,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1981,
+        "value": 1.3,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1982,
+        "value": 1.3,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1983,
+        "value": 1.26,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1984,
+        "value": 1.25,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1985,
+        "value": 1.25,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1986,
+        "value": 1.25,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1987,
+        "value": 1.26,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1988,
+        "value": 1.26,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1989,
+        "value": 1.26,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1990,
+        "value": 1.26,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1991,
+        "value": 1.24,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1992,
+        "value": 1.22,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1993,
+        "value": 1.22,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1994,
+        "value": 1.2,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1995,
+        "value": 1.19,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1996,
+        "value": 1.19,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1997,
+        "value": 1.18,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1998,
+        "value": 1.16,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1999,
+        "value": 1.15,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2000,
+        "value": 1.13,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2001,
+        "value": 1.12,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2002,
+        "value": 1.09,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2003,
+        "value": 1.07,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2004,
+        "value": 1.06,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2005,
+        "value": 1.04,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2006,
+        "value": 1.02,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2007,
+        "value": 1.01,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2008,
+        "value": 0.98,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2009,
+        "value": 0.95,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2010,
+        "value": 0.92,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2011,
+        "value": 0.9,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2012,
+        "value": 0.88,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2013,
+        "value": 0.86,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2014,
+        "value": 0.83,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2015,
+        "value": 0.8,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2016,
+        "value": 0.78,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2017,
+        "value": 0.75,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2018,
+        "value": 0.7,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2019,
+        "value": 0.66,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2020,
+        "value": 0.61,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2021,
+        "value": 0.57,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2022,
+        "value": 0.53,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2023,
+        "value": 0.49,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2024,
+        "value": 0.45,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2025,
+        "value": 0.42,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      }
+    ],
+    "households": [
+      {
+        "year": 1965,
+        "value": 24748550,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1966,
+        "value": 25520079,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1967,
+        "value": 26403437,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1968,
+        "value": 27115298,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1969,
+        "value": 28205976,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1970,
+        "value": 29146288,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1971,
+        "value": 30027454,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1972,
+        "value": 31095679,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1973,
+        "value": 31907782,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1974,
+        "value": 32627792,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1975,
+        "value": 33310006,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1976,
+        "value": 33911052,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1977,
+        "value": 34380314,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1978,
+        "value": 34858696,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1979,
+        "value": 35349573,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1980,
+        "value": 35830857,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1981,
+        "value": 36346662,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1982,
+        "value": 36859200,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1983,
+        "value": 37425866,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1984,
+        "value": 37934575,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1985,
+        "value": 38457479,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1986,
+        "value": 38987773,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1987,
+        "value": 39536307,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1988,
+        "value": 40025087,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1989,
+        "value": 40561404,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1990,
+        "value": 41156485,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1991,
+        "value": 41797445,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1992,
+        "value": 42457975,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1993,
+        "value": 43077126,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1994,
+        "value": 43665843,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1995,
+        "value": 44235735,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1996,
+        "value": 44830961,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1997,
+        "value": 45498173,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1998,
+        "value": 46156796,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 1999,
+        "value": 46811712,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2000,
+        "value": 47419905,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2001,
+        "value": 48015251,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2002,
+        "value": 48637789,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2003,
+        "value": 49260791,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2004,
+        "value": 49837731,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2005,
+        "value": 50382081,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2006,
+        "value": 51102005,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2007,
+        "value": 51713048,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2008,
+        "value": 52324877,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2009,
+        "value": 52877802,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2010,
+        "value": 53362801,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2011,
+        "value": 53549522,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2012,
+        "value": 54171475,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2013,
+        "value": 54594744,
+        "segment": "household-mar31",
+        "source": "circulation01"
+      },
+      {
+        "year": 2014,
+        "value": 54952108,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2015,
+        "value": 55364197,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2016,
+        "value": 55811969,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2017,
+        "value": 56221568,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2018,
+        "value": 56613999,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2019,
+        "value": 56996515,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2020,
+        "value": 57380526,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2021,
+        "value": 57849163,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2022,
+        "value": 58226982,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2023,
+        "value": 58493428,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2024,
+        "value": 58738888,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      },
+      {
+        "year": 2025,
+        "value": 58955700,
+        "segment": "household-jan1",
+        "source": "circulation01"
+      }
+    ]
+  },
+  "setAsTwo": {
+    "copies": [
+      {
+        "year": 2000,
+        "value": 71896000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2001,
+        "value": 71694000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2002,
+        "value": 70815000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2003,
+        "value": 70340000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2004,
+        "value": 70364000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2005,
+        "value": 69680000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2006,
+        "value": 69100000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2007,
+        "value": 68437000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2008,
+        "value": 67207000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2009,
+        "value": 65080000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2010,
+        "value": 63199000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2011,
+        "value": 61581000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2012,
+        "value": 60655000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2013,
+        "value": 59396000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2014,
+        "value": 56719000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2015,
+        "value": 55121000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2016,
+        "value": 53690000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2017,
+        "value": 51829000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2018,
+        "value": 48927000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2019,
+        "value": 46233000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2020,
+        "value": 42345000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2021,
+        "value": 39512000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2022,
+        "value": 36775000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2023,
+        "value": 33047000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2024,
+        "value": 30533000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2025,
+        "value": 28244000,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      }
+    ],
+    "perThousandPeople": [
+      {
+        "year": 2000,
+        "value": 570,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2001,
+        "value": 567,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2002,
+        "value": 559,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2003,
+        "value": 555,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2004,
+        "value": 554,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2005,
+        "value": 549,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2006,
+        "value": 543,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2007,
+        "value": 538,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2008,
+        "value": 528,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2009,
+        "value": 512,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2010,
+        "value": 497,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2011,
+        "value": 487,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2012,
+        "value": 478,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2013,
+        "value": 469,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2014,
+        "value": 448,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2015,
+        "value": 436,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2016,
+        "value": 426,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2017,
+        "value": 412,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2018,
+        "value": 390,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2019,
+        "value": 370,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2020,
+        "value": 340,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2021,
+        "value": 319,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2022,
+        "value": 298,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2023,
+        "value": 270,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2024,
+        "value": 251,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2025,
+        "value": 234,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      }
+    ],
+    "titles": [
+      {
+        "year": 2000,
+        "value": 122,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2001,
+        "value": 124,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2002,
+        "value": 124,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2003,
+        "value": 123,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2004,
+        "value": 120,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2005,
+        "value": 120,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2006,
+        "value": 120,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2007,
+        "value": 121,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2008,
+        "value": 121,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2009,
+        "value": 121,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2010,
+        "value": 120,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2011,
+        "value": 119,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2012,
+        "value": 118,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2013,
+        "value": 117,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2014,
+        "value": 117,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2015,
+        "value": 117,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2016,
+        "value": 117,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2017,
+        "value": 117,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2018,
+        "value": 117,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2019,
+        "value": 116,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2020,
+        "value": 116,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2021,
+        "value": 113,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2022,
+        "value": 112,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2023,
+        "value": 110,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2024,
+        "value": 106,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      },
+      {
+        "year": 2025,
+        "value": 104,
+        "segment": "set-as-two",
+        "source": "circulation05"
+      }
+    ],
+    "exact2025": 28244091.0
+  },
+  "delivery": {
+    "home": [
+      {
+        "year": 2000,
+        "value": 93.49,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2001,
+        "value": 93.38,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2002,
+        "value": 93.8,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2003,
+        "value": 93.87,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2004,
+        "value": 93.94,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2005,
+        "value": 94.15,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2006,
+        "value": 94.32,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2007,
+        "value": 94.35,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2008,
+        "value": 94.6,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2009,
+        "value": 94.73,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2010,
+        "value": 94.86,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2011,
+        "value": 94.97,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2012,
+        "value": 94.94,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2013,
+        "value": 95.08,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2014,
+        "value": 95.19,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2015,
+        "value": 95.07,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2016,
+        "value": 95.06,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2017,
+        "value": 95.01,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2018,
+        "value": 95.29,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2019,
+        "value": 95.17,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2020,
+        "value": 95.51,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2021,
+        "value": 95.77,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2022,
+        "value": 95.85,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2023,
+        "value": 95.95,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2024,
+        "value": 96.05,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2025,
+        "value": 96.21,
+        "segment": "delivery",
+        "source": "circulation03"
+      }
+    ],
+    "shop": [
+      {
+        "year": 2000,
+        "value": 5.95,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2001,
+        "value": 6.06,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2002,
+        "value": 5.63,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2003,
+        "value": 5.55,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2004,
+        "value": 5.47,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2005,
+        "value": 5.29,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2006,
+        "value": 5.09,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2007,
+        "value": 5.06,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2008,
+        "value": 4.84,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2009,
+        "value": 4.73,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2010,
+        "value": 4.6,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2011,
+        "value": 4.52,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2012,
+        "value": 4.57,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2013,
+        "value": 4.43,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2014,
+        "value": 4.28,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2015,
+        "value": 4.39,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2016,
+        "value": 4.4,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2017,
+        "value": 4.44,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2018,
+        "value": 4.16,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2019,
+        "value": 4.27,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2020,
+        "value": 3.93,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2021,
+        "value": 3.66,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2022,
+        "value": 3.56,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2023,
+        "value": 3.5,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2024,
+        "value": 3.38,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2025,
+        "value": 3.21,
+        "segment": "delivery",
+        "source": "circulation03"
+      }
+    ],
+    "mail": [
+      {
+        "year": 2000,
+        "value": 0.05,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2001,
+        "value": 0.05,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2002,
+        "value": 0.05,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2003,
+        "value": 0.05,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2004,
+        "value": 0.05,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2005,
+        "value": 0.05,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2006,
+        "value": 0.05,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2007,
+        "value": 0.05,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2008,
+        "value": 0.05,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2009,
+        "value": 0.04,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2010,
+        "value": 0.04,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2011,
+        "value": 0.04,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2012,
+        "value": 0.04,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2013,
+        "value": 0.04,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2014,
+        "value": 0.04,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2015,
+        "value": 0.04,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2016,
+        "value": 0.04,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2017,
+        "value": 0.04,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2018,
+        "value": 0.04,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2019,
+        "value": 0.04,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2020,
+        "value": 0.04,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2021,
+        "value": 0.04,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2022,
+        "value": 0.06,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2023,
+        "value": 0.04,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2024,
+        "value": 0.04,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2025,
+        "value": 0.04,
+        "segment": "delivery",
+        "source": "circulation03"
+      }
+    ],
+    "other": [
+      {
+        "year": 2000,
+        "value": 0.5,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2001,
+        "value": 0.51,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2002,
+        "value": 0.52,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2003,
+        "value": 0.53,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2004,
+        "value": 0.54,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2005,
+        "value": 0.51,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2006,
+        "value": 0.54,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2007,
+        "value": 0.54,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2008,
+        "value": 0.51,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2009,
+        "value": 0.5,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2010,
+        "value": 0.5,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2011,
+        "value": 0.48,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2012,
+        "value": 0.45,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2013,
+        "value": 0.45,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2014,
+        "value": 0.49,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2015,
+        "value": 0.49,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2016,
+        "value": 0.5,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2017,
+        "value": 0.51,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2018,
+        "value": 0.5,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2019,
+        "value": 0.52,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2020,
+        "value": 0.51,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2021,
+        "value": 0.52,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2022,
+        "value": 0.52,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2023,
+        "value": 0.51,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2024,
+        "value": 0.53,
+        "segment": "delivery",
+        "source": "circulation03"
+      },
+      {
+        "year": 2025,
+        "value": 0.54,
+        "segment": "delivery",
+        "source": "circulation03"
+      }
+    ]
+  },
+  "prefecture": {
+    "year": 2025,
+    "nationalTotal": 24868122,
+    "pastYears": null
+  }
+}

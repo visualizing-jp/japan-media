@@ -1,0 +1,1005 @@
+{
+  "question": "広告費はどの媒体に流れてきたか",
+  "unit": "億円",
+  "totalYearStart": 2005,
+  "totalYearEnd": 2025,
+  "mediaYearStart": 2010,
+  "mediaYearEnd": 2025,
+  "series": {
+    "total": [
+      {
+        "year": 2005,
+        "value": 68235,
+        "segment": "from-2005",
+        "source": "ad-2019"
+      },
+      {
+        "year": 2006,
+        "value": 69399,
+        "segment": "from-2005",
+        "source": "ad-2020"
+      },
+      {
+        "year": 2007,
+        "value": 70191,
+        "segment": "from-2005",
+        "source": "ad-2020"
+      },
+      {
+        "year": 2008,
+        "value": 66926,
+        "segment": "from-2005",
+        "source": "ad-2021"
+      },
+      {
+        "year": 2009,
+        "value": 59222,
+        "segment": "from-2005",
+        "source": "ad-2022"
+      },
+      {
+        "year": 2010,
+        "value": 58427,
+        "segment": "from-2005",
+        "source": "ad-2023"
+      },
+      {
+        "year": 2011,
+        "value": 57096,
+        "segment": "from-2005",
+        "source": "ad-2024"
+      },
+      {
+        "year": 2012,
+        "value": 58913,
+        "segment": "from-2005",
+        "source": "ad-2025"
+      },
+      {
+        "year": 2013,
+        "value": 59762,
+        "segment": "from-2005",
+        "source": "ad-2025"
+      },
+      {
+        "year": 2014,
+        "value": 61522,
+        "segment": "from-2005",
+        "source": "ad-2025"
+      },
+      {
+        "year": 2015,
+        "value": 61710,
+        "segment": "from-2005",
+        "source": "ad-2025"
+      },
+      {
+        "year": 2016,
+        "value": 62880,
+        "segment": "from-2005",
+        "source": "ad-2025"
+      },
+      {
+        "year": 2017,
+        "value": 63907,
+        "segment": "from-2005",
+        "source": "ad-2025"
+      },
+      {
+        "year": 2018,
+        "value": 65300,
+        "segment": "from-2005",
+        "source": "ad-2025"
+      },
+      {
+        "year": 2019,
+        "value": 69381,
+        "segment": "from-2005",
+        "source": "ad-2025"
+      },
+      {
+        "year": 2020,
+        "value": 61594,
+        "segment": "from-2005",
+        "source": "ad-2025"
+      },
+      {
+        "year": 2021,
+        "value": 67998,
+        "segment": "from-2005",
+        "source": "ad-2025"
+      },
+      {
+        "year": 2022,
+        "value": 71021,
+        "segment": "from-2005",
+        "source": "ad-2025"
+      },
+      {
+        "year": 2023,
+        "value": 73167,
+        "segment": "from-2005",
+        "source": "ad-2025"
+      },
+      {
+        "year": 2024,
+        "value": 76730,
+        "segment": "from-2005",
+        "source": "ad-2025"
+      },
+      {
+        "year": 2025,
+        "value": 80623,
+        "segment": "from-2005",
+        "source": "ad-2025"
+      }
+    ],
+    "newspaper": [
+      {
+        "year": 2010,
+        "value": 6396,
+        "segment": "stable",
+        "source": "ad-2010"
+      },
+      {
+        "year": 2011,
+        "value": 5990,
+        "segment": "stable",
+        "source": "ad-2011"
+      },
+      {
+        "year": 2012,
+        "value": 6242,
+        "segment": "stable",
+        "source": "ad-2012"
+      },
+      {
+        "year": 2013,
+        "value": 6170,
+        "segment": "stable",
+        "source": "ad-2013"
+      },
+      {
+        "year": 2014,
+        "value": 6057,
+        "segment": "stable",
+        "source": "ad-2014"
+      },
+      {
+        "year": 2015,
+        "value": 5679,
+        "segment": "stable",
+        "source": "ad-2015"
+      },
+      {
+        "year": 2016,
+        "value": 5431,
+        "segment": "stable",
+        "source": "ad-2016"
+      },
+      {
+        "year": 2017,
+        "value": 5147,
+        "segment": "stable",
+        "source": "ad-2017"
+      },
+      {
+        "year": 2018,
+        "value": 4784,
+        "segment": "stable",
+        "source": "ad-2018"
+      },
+      {
+        "year": 2019,
+        "value": 4547,
+        "segment": "stable",
+        "source": "ad-2019"
+      },
+      {
+        "year": 2020,
+        "value": 3688,
+        "segment": "stable",
+        "source": "ad-2020"
+      },
+      {
+        "year": 2021,
+        "value": 3815,
+        "segment": "stable",
+        "source": "ad-2021"
+      },
+      {
+        "year": 2022,
+        "value": 3697,
+        "segment": "stable",
+        "source": "ad-2022"
+      },
+      {
+        "year": 2023,
+        "value": 3512,
+        "segment": "stable",
+        "source": "ad-2023"
+      },
+      {
+        "year": 2024,
+        "value": 3417,
+        "segment": "stable",
+        "source": "ad-2024"
+      },
+      {
+        "year": 2025,
+        "value": 3136,
+        "segment": "stable",
+        "source": "ad-2025"
+      }
+    ],
+    "magazine": [
+      {
+        "year": 2010,
+        "value": 2733,
+        "segment": "stable",
+        "source": "ad-2010"
+      },
+      {
+        "year": 2011,
+        "value": 2542,
+        "segment": "stable",
+        "source": "ad-2011"
+      },
+      {
+        "year": 2012,
+        "value": 2551,
+        "segment": "stable",
+        "source": "ad-2012"
+      },
+      {
+        "year": 2013,
+        "value": 2499,
+        "segment": "stable",
+        "source": "ad-2013"
+      },
+      {
+        "year": 2014,
+        "value": 2500,
+        "segment": "stable",
+        "source": "ad-2014"
+      },
+      {
+        "year": 2015,
+        "value": 2443,
+        "segment": "stable",
+        "source": "ad-2015"
+      },
+      {
+        "year": 2016,
+        "value": 2223,
+        "segment": "stable",
+        "source": "ad-2016"
+      },
+      {
+        "year": 2017,
+        "value": 2023,
+        "segment": "stable",
+        "source": "ad-2017"
+      },
+      {
+        "year": 2018,
+        "value": 1841,
+        "segment": "stable",
+        "source": "ad-2018"
+      },
+      {
+        "year": 2019,
+        "value": 1675,
+        "segment": "stable",
+        "source": "ad-2019"
+      },
+      {
+        "year": 2020,
+        "value": 1223,
+        "segment": "stable",
+        "source": "ad-2020"
+      },
+      {
+        "year": 2021,
+        "value": 1224,
+        "segment": "stable",
+        "source": "ad-2021"
+      },
+      {
+        "year": 2022,
+        "value": 1140,
+        "segment": "stable",
+        "source": "ad-2022"
+      },
+      {
+        "year": 2023,
+        "value": 1163,
+        "segment": "stable",
+        "source": "ad-2023"
+      },
+      {
+        "year": 2024,
+        "value": 1179,
+        "segment": "stable",
+        "source": "ad-2024"
+      },
+      {
+        "year": 2025,
+        "value": 1135,
+        "segment": "stable",
+        "source": "ad-2025"
+      }
+    ],
+    "radio": [
+      {
+        "year": 2010,
+        "value": 1299,
+        "segment": "stable",
+        "source": "ad-2010"
+      },
+      {
+        "year": 2011,
+        "value": 1247,
+        "segment": "stable",
+        "source": "ad-2011"
+      },
+      {
+        "year": 2012,
+        "value": 1246,
+        "segment": "stable",
+        "source": "ad-2012"
+      },
+      {
+        "year": 2013,
+        "value": 1243,
+        "segment": "stable",
+        "source": "ad-2013"
+      },
+      {
+        "year": 2014,
+        "value": 1272,
+        "segment": "stable",
+        "source": "ad-2014"
+      },
+      {
+        "year": 2015,
+        "value": 1254,
+        "segment": "stable",
+        "source": "ad-2015"
+      },
+      {
+        "year": 2016,
+        "value": 1285,
+        "segment": "stable",
+        "source": "ad-2016"
+      },
+      {
+        "year": 2017,
+        "value": 1290,
+        "segment": "stable",
+        "source": "ad-2017"
+      },
+      {
+        "year": 2018,
+        "value": 1278,
+        "segment": "stable",
+        "source": "ad-2018"
+      },
+      {
+        "year": 2019,
+        "value": 1260,
+        "segment": "stable",
+        "source": "ad-2019"
+      },
+      {
+        "year": 2020,
+        "value": 1066,
+        "segment": "stable",
+        "source": "ad-2020"
+      },
+      {
+        "year": 2021,
+        "value": 1106,
+        "segment": "stable",
+        "source": "ad-2021"
+      },
+      {
+        "year": 2022,
+        "value": 1129,
+        "segment": "stable",
+        "source": "ad-2022"
+      },
+      {
+        "year": 2023,
+        "value": 1139,
+        "segment": "stable",
+        "source": "ad-2023"
+      },
+      {
+        "year": 2024,
+        "value": 1162,
+        "segment": "stable",
+        "source": "ad-2024"
+      },
+      {
+        "year": 2025,
+        "value": 1153,
+        "segment": "stable",
+        "source": "ad-2025"
+      }
+    ],
+    "tvSeparate": [
+      {
+        "year": 2010,
+        "value": 17321,
+        "segment": "tv-without-satellite",
+        "source": "ad-2010"
+      },
+      {
+        "year": 2011,
+        "value": 17237,
+        "segment": "tv-without-satellite",
+        "source": "ad-2011"
+      },
+      {
+        "year": 2012,
+        "value": 17757,
+        "segment": "tv-without-satellite",
+        "source": "ad-2012"
+      },
+      {
+        "year": 2013,
+        "value": 17913,
+        "segment": "tv-without-satellite",
+        "source": "ad-2013"
+      }
+    ],
+    "satelliteSeparate": [
+      {
+        "year": 2010,
+        "value": 784,
+        "segment": "satellite-separate",
+        "source": "ad-2010"
+      },
+      {
+        "year": 2011,
+        "value": 891,
+        "segment": "satellite-separate",
+        "source": "ad-2011"
+      },
+      {
+        "year": 2012,
+        "value": 1013,
+        "segment": "satellite-separate",
+        "source": "ad-2012"
+      },
+      {
+        "year": 2013,
+        "value": 1110,
+        "segment": "satellite-separate",
+        "source": "ad-2013"
+      }
+    ],
+    "mass": [
+      {
+        "year": 2010,
+        "value": 27749,
+        "segment": "mass-without-satellite",
+        "source": "ad-2010"
+      },
+      {
+        "year": 2011,
+        "value": 27016,
+        "segment": "mass-without-satellite",
+        "source": "ad-2011"
+      },
+      {
+        "year": 2012,
+        "value": 27796,
+        "segment": "mass-without-satellite",
+        "source": "ad-2012"
+      },
+      {
+        "year": 2013,
+        "value": 27825,
+        "segment": "mass-without-satellite",
+        "source": "ad-2013"
+      },
+      {
+        "year": 2014,
+        "value": 29393,
+        "segment": "mass-with-satellite",
+        "source": "ad-2014"
+      },
+      {
+        "year": 2015,
+        "value": 28699,
+        "segment": "mass-with-satellite",
+        "source": "ad-2015"
+      },
+      {
+        "year": 2016,
+        "value": 28596,
+        "segment": "mass-with-satellite",
+        "source": "ad-2016"
+      },
+      {
+        "year": 2017,
+        "value": 27938,
+        "segment": "mass-with-satellite",
+        "source": "ad-2017"
+      },
+      {
+        "year": 2018,
+        "value": 27026,
+        "segment": "mass-with-satellite",
+        "source": "ad-2018"
+      },
+      {
+        "year": 2019,
+        "value": 26094,
+        "segment": "mass-with-satellite",
+        "source": "ad-2019"
+      },
+      {
+        "year": 2020,
+        "value": 22536,
+        "segment": "mass-with-satellite",
+        "source": "ad-2020"
+      },
+      {
+        "year": 2021,
+        "value": 24538,
+        "segment": "mass-with-satellite",
+        "source": "ad-2021"
+      },
+      {
+        "year": 2022,
+        "value": 23985,
+        "segment": "mass-with-satellite",
+        "source": "ad-2022"
+      },
+      {
+        "year": 2023,
+        "value": 23161,
+        "segment": "mass-with-satellite",
+        "source": "ad-2023"
+      },
+      {
+        "year": 2024,
+        "value": 23363,
+        "segment": "mass-with-satellite",
+        "source": "ad-2024"
+      },
+      {
+        "year": 2025,
+        "value": 22980,
+        "segment": "mass-with-satellite",
+        "source": "ad-2025"
+      }
+    ],
+    "internet": [
+      {
+        "year": 2010,
+        "value": 7747,
+        "segment": "net-before-2018",
+        "source": "ad-2010"
+      },
+      {
+        "year": 2011,
+        "value": 8062,
+        "segment": "net-before-2018",
+        "source": "ad-2011"
+      },
+      {
+        "year": 2012,
+        "value": 8680,
+        "segment": "net-before-2018",
+        "source": "ad-2012"
+      },
+      {
+        "year": 2013,
+        "value": 9381,
+        "segment": "net-before-2018",
+        "source": "ad-2013"
+      },
+      {
+        "year": 2014,
+        "value": 10519,
+        "segment": "net-before-2018",
+        "source": "ad-2014"
+      },
+      {
+        "year": 2015,
+        "value": 11594,
+        "segment": "net-before-2018",
+        "source": "ad-2015"
+      },
+      {
+        "year": 2016,
+        "value": 13100,
+        "segment": "net-before-2018",
+        "source": "ad-2016"
+      },
+      {
+        "year": 2017,
+        "value": 15094,
+        "segment": "net-before-2018",
+        "source": "ad-2017"
+      },
+      {
+        "year": 2018,
+        "value": 17589,
+        "segment": "net-2018",
+        "source": "ad-2018"
+      },
+      {
+        "year": 2019,
+        "value": 21048,
+        "segment": "net-from-2019",
+        "source": "ad-2019"
+      },
+      {
+        "year": 2020,
+        "value": 22290,
+        "segment": "net-from-2019",
+        "source": "ad-2020"
+      },
+      {
+        "year": 2021,
+        "value": 27052,
+        "segment": "net-from-2019",
+        "source": "ad-2021"
+      },
+      {
+        "year": 2022,
+        "value": 30912,
+        "segment": "net-from-2019",
+        "source": "ad-2022"
+      },
+      {
+        "year": 2023,
+        "value": 33330,
+        "segment": "net-from-2019",
+        "source": "ad-2023"
+      },
+      {
+        "year": 2024,
+        "value": 36517,
+        "segment": "net-from-2019",
+        "source": "ad-2024"
+      },
+      {
+        "year": 2025,
+        "value": 40459,
+        "segment": "net-from-2019",
+        "source": "ad-2025"
+      }
+    ],
+    "promotion": [
+      {
+        "year": 2010,
+        "value": 22147,
+        "segment": "promo-before-2019",
+        "source": "ad-2010"
+      },
+      {
+        "year": 2011,
+        "value": 21127,
+        "segment": "promo-before-2019",
+        "source": "ad-2011"
+      },
+      {
+        "year": 2012,
+        "value": 21424,
+        "segment": "promo-before-2019",
+        "source": "ad-2012"
+      },
+      {
+        "year": 2013,
+        "value": 21446,
+        "segment": "promo-before-2019",
+        "source": "ad-2013"
+      },
+      {
+        "year": 2014,
+        "value": 21610,
+        "segment": "promo-before-2019",
+        "source": "ad-2014"
+      },
+      {
+        "year": 2015,
+        "value": 21417,
+        "segment": "promo-before-2019",
+        "source": "ad-2015"
+      },
+      {
+        "year": 2016,
+        "value": 21184,
+        "segment": "promo-before-2019",
+        "source": "ad-2016"
+      },
+      {
+        "year": 2017,
+        "value": 20875,
+        "segment": "promo-before-2019",
+        "source": "ad-2017"
+      },
+      {
+        "year": 2018,
+        "value": 20685,
+        "segment": "promo-before-2019",
+        "source": "ad-2018"
+      },
+      {
+        "year": 2019,
+        "value": 22239,
+        "segment": "promo-from-2019",
+        "source": "ad-2019"
+      },
+      {
+        "year": 2020,
+        "value": 16768,
+        "segment": "promo-from-2019",
+        "source": "ad-2020"
+      },
+      {
+        "year": 2021,
+        "value": 16408,
+        "segment": "promo-from-2019",
+        "source": "ad-2021"
+      },
+      {
+        "year": 2022,
+        "value": 16124,
+        "segment": "promo-from-2019",
+        "source": "ad-2022"
+      },
+      {
+        "year": 2023,
+        "value": 16676,
+        "segment": "promo-from-2019",
+        "source": "ad-2023"
+      },
+      {
+        "year": 2024,
+        "value": 16850,
+        "segment": "promo-from-2019",
+        "source": "ad-2024"
+      },
+      {
+        "year": 2025,
+        "value": 17184,
+        "segment": "promo-from-2019",
+        "source": "ad-2025"
+      }
+    ],
+    "tvMedia": [
+      {
+        "year": 2014,
+        "value": 19564,
+        "segment": "tv-media",
+        "source": "ad-2014"
+      },
+      {
+        "year": 2015,
+        "value": 19323,
+        "segment": "tv-media",
+        "source": "ad-2015"
+      },
+      {
+        "year": 2016,
+        "value": 19657,
+        "segment": "tv-media",
+        "source": "ad-2016"
+      },
+      {
+        "year": 2017,
+        "value": 19478,
+        "segment": "tv-media",
+        "source": "ad-2017"
+      },
+      {
+        "year": 2018,
+        "value": 19123,
+        "segment": "tv-media",
+        "source": "ad-2018"
+      },
+      {
+        "year": 2019,
+        "value": 18612,
+        "segment": "tv-media",
+        "source": "ad-2019"
+      },
+      {
+        "year": 2020,
+        "value": 16559,
+        "segment": "tv-media",
+        "source": "ad-2020"
+      },
+      {
+        "year": 2021,
+        "value": 18393,
+        "segment": "tv-media",
+        "source": "ad-2021"
+      },
+      {
+        "year": 2022,
+        "value": 18019,
+        "segment": "tv-media",
+        "source": "ad-2022"
+      },
+      {
+        "year": 2023,
+        "value": 17347,
+        "segment": "tv-media",
+        "source": "ad-2023"
+      },
+      {
+        "year": 2024,
+        "value": 17605,
+        "segment": "tv-media",
+        "source": "ad-2024"
+      },
+      {
+        "year": 2025,
+        "value": 17556,
+        "segment": "tv-media",
+        "source": "ad-2025"
+      }
+    ],
+    "terrestrial": [
+      {
+        "year": 2014,
+        "value": 18347,
+        "segment": "terrestrial",
+        "source": "ad-2014"
+      },
+      {
+        "year": 2015,
+        "value": 18088,
+        "segment": "terrestrial",
+        "source": "ad-2015"
+      },
+      {
+        "year": 2016,
+        "value": 18374,
+        "segment": "terrestrial",
+        "source": "ad-2016"
+      },
+      {
+        "year": 2017,
+        "value": 18178,
+        "segment": "terrestrial",
+        "source": "ad-2017"
+      },
+      {
+        "year": 2018,
+        "value": 17848,
+        "segment": "terrestrial",
+        "source": "ad-2018"
+      },
+      {
+        "year": 2019,
+        "value": 17345,
+        "segment": "terrestrial",
+        "source": "ad-2019"
+      },
+      {
+        "year": 2020,
+        "value": 15386,
+        "segment": "terrestrial",
+        "source": "ad-2020"
+      },
+      {
+        "year": 2021,
+        "value": 17184,
+        "segment": "terrestrial",
+        "source": "ad-2021"
+      },
+      {
+        "year": 2022,
+        "value": 16768,
+        "segment": "terrestrial",
+        "source": "ad-2022"
+      },
+      {
+        "year": 2023,
+        "value": 16095,
+        "segment": "terrestrial",
+        "source": "ad-2023"
+      },
+      {
+        "year": 2024,
+        "value": 16351,
+        "segment": "terrestrial",
+        "source": "ad-2024"
+      },
+      {
+        "year": 2025,
+        "value": 16333,
+        "segment": "terrestrial",
+        "source": "ad-2025"
+      }
+    ],
+    "satelliteInTv": [
+      {
+        "year": 2014,
+        "value": 1217,
+        "segment": "satellite-in-tv",
+        "source": "ad-2014"
+      },
+      {
+        "year": 2015,
+        "value": 1235,
+        "segment": "satellite-in-tv",
+        "source": "ad-2015"
+      },
+      {
+        "year": 2016,
+        "value": 1283,
+        "segment": "satellite-in-tv",
+        "source": "ad-2016"
+      },
+      {
+        "year": 2017,
+        "value": 1300,
+        "segment": "satellite-in-tv",
+        "source": "ad-2017"
+      },
+      {
+        "year": 2018,
+        "value": 1275,
+        "segment": "satellite-in-tv",
+        "source": "ad-2018"
+      },
+      {
+        "year": 2019,
+        "value": 1267,
+        "segment": "satellite-in-tv",
+        "source": "ad-2019"
+      },
+      {
+        "year": 2020,
+        "value": 1173,
+        "segment": "satellite-in-tv",
+        "source": "ad-2020"
+      },
+      {
+        "year": 2021,
+        "value": 1209,
+        "segment": "satellite-in-tv",
+        "source": "ad-2021"
+      },
+      {
+        "year": 2022,
+        "value": 1251,
+        "segment": "satellite-in-tv",
+        "source": "ad-2022"
+      },
+      {
+        "year": 2023,
+        "value": 1252,
+        "segment": "satellite-in-tv",
+        "source": "ad-2023"
+      },
+      {
+        "year": 2024,
+        "value": 1254,
+        "segment": "satellite-in-tv",
+        "source": "ad-2024"
+      },
+      {
+        "year": 2025,
+        "value": 1223,
+        "segment": "satellite-in-tv",
+        "source": "ad-2025"
+      }
+    ]
+  },
+  "unconfirmed": [
+    "2005–2009年の媒体別の億円。総広告費の列だけがある。",
+    "2012年と2013年について、2014年の遡及後のテレビメディアの億円。その年のページの括弧は衛星を別掲にした金額で、後年の表は前年比だけ。",
+    "1947–2004年。2000–2004年の総広告費は2012年ページにあるが、2007年の推定範囲の改定は2005年までなので同じ線に入れない。"
+  ]
+}

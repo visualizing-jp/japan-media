@@ -1,0 +1,2225 @@
+{
+  "question": "世帯はメディアにいくら払ってきたか",
+  "overlap2000": {
+    "year": 2000,
+    "nonfarm": {
+      "newspaper": 36474,
+      "magazine": 5406,
+      "books": 11042,
+      "nhk": 14087,
+      "other": 5867,
+      "broadcast": 19954
+    },
+    "twoplus": {
+      "newspaper": 36288,
+      "magazine": 5386,
+      "books": 10900,
+      "nhk": 14121,
+      "other": 5827,
+      "broadcast": 19948
+    }
+  },
+  "stat": "家計調査",
+  "unit": "円",
+  "unitLabel": "1世帯あたり年間の支出金額（円）",
+  "price": "名目",
+  "yearStart": 1963,
+  "yearEnd": 2025,
+  "breaks": [
+    2000
+  ],
+  "items": [
+    {
+      "id": "newspaper",
+      "name": "新聞",
+      "code": "850",
+      "color": "#22211e",
+      "stack": true,
+      "points": [
+        {
+          "year": 1963,
+          "value": 4301,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1964,
+          "value": 4433,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1965,
+          "value": 4730,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1966,
+          "value": 5582,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1967,
+          "value": 5697,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1968,
+          "value": 5954,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1969,
+          "value": 6862,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1970,
+          "value": 7675,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1971,
+          "value": 8707,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1972,
+          "value": 9057,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1973,
+          "value": 10023,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1974,
+          "value": 13639,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1975,
+          "value": 16776,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1976,
+          "value": 17247,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1977,
+          "value": 17655,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1978,
+          "value": 19179,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1979,
+          "value": 20798,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1980,
+          "value": 23474,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1981,
+          "value": 25652,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1982,
+          "value": 26126,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1983,
+          "value": 26065,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1984,
+          "value": 26375,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1985,
+          "value": 26408,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1986,
+          "value": 28138,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1987,
+          "value": 28789,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1988,
+          "value": 28820,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1989,
+          "value": 31407,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1990,
+          "value": 32032,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1991,
+          "value": 31676,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1992,
+          "value": 36145,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1993,
+          "value": 36747,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1994,
+          "value": 38147,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1995,
+          "value": 37672,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1996,
+          "value": 37074,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1997,
+          "value": 37596,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1998,
+          "value": 37497,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1999,
+          "value": 36965,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 2000,
+          "value": 36288,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2001,
+          "value": 36057,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2002,
+          "value": 39071,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2003,
+          "value": 38766,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2004,
+          "value": 38184,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2005,
+          "value": 37710,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2006,
+          "value": 36760,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2007,
+          "value": 36548,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2008,
+          "value": 35855,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2009,
+          "value": 35470,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2010,
+          "value": 34462,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2011,
+          "value": 33837,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2011"
+        },
+        {
+          "year": 2012,
+          "value": 33600,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2012"
+        },
+        {
+          "year": 2013,
+          "value": 32984,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2013"
+        },
+        {
+          "year": 2014,
+          "value": 32499,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2014"
+        },
+        {
+          "year": 2015,
+          "value": 31824,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2016,
+          "value": 31005,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2017,
+          "value": 29944,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2018,
+          "value": 28629,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2019,
+          "value": 28248,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2020,
+          "value": 27082,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2021,
+          "value": 26562,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2022,
+          "value": 25705,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2023,
+          "value": 25149,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2024,
+          "value": 24921,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2025,
+          "value": 24397,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2025"
+        }
+      ]
+    },
+    {
+      "id": "magazine",
+      "name": "雑誌",
+      "code": "851",
+      "color": "#8d6a4a",
+      "stack": true,
+      "points": [
+        {
+          "year": 1963,
+          "value": 1206,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1964,
+          "value": 1362,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1965,
+          "value": 1373,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1966,
+          "value": 1460,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1967,
+          "value": 1604,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1968,
+          "value": 1650,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1969,
+          "value": 1764,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1970,
+          "value": 1826,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1971,
+          "value": 1887,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1972,
+          "value": 1995,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1973,
+          "value": 2130,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1974,
+          "value": 2444,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1975,
+          "value": 2641,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1976,
+          "value": 2930,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1977,
+          "value": 2996,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1978,
+          "value": 3172,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1979,
+          "value": 3328,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1980,
+          "value": 3505,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1981,
+          "value": 3485,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1982,
+          "value": 3556,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1983,
+          "value": 3458,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1984,
+          "value": 3479,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1985,
+          "value": 3507,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1986,
+          "value": 3679,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1987,
+          "value": 3705,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1988,
+          "value": 3818,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1989,
+          "value": 4226,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1990,
+          "value": 4089,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1991,
+          "value": 4032,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1992,
+          "value": 4131,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1993,
+          "value": 4349,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1994,
+          "value": 4165,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1995,
+          "value": 4624,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1996,
+          "value": 4801,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1997,
+          "value": 5170,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1998,
+          "value": 5370,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1999,
+          "value": 5677,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 2000,
+          "value": 5386,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2001,
+          "value": 5434,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2002,
+          "value": 5008,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2003,
+          "value": 4764,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2004,
+          "value": 5010,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2005,
+          "value": 5040,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2006,
+          "value": 4675,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2007,
+          "value": 4434,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2008,
+          "value": 4489,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2009,
+          "value": 4617,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2010,
+          "value": 4460,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2011,
+          "value": 4333,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2011"
+        },
+        {
+          "year": 2012,
+          "value": 3985,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2012"
+        },
+        {
+          "year": 2013,
+          "value": 3953,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2013"
+        },
+        {
+          "year": 2014,
+          "value": 3684,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2014"
+        },
+        {
+          "year": 2015,
+          "value": 3395,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2016,
+          "value": 3351,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2017,
+          "value": 3150,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2018,
+          "value": 3033,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2019,
+          "value": 2964,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2020,
+          "value": 2756,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2021,
+          "value": 2811,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2022,
+          "value": 2526,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2023,
+          "value": 2416,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2024,
+          "value": 2049,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2025,
+          "value": 2031,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2025"
+        }
+      ]
+    },
+    {
+      "id": "books",
+      "name": "書籍",
+      "code": "854",
+      "color": "#b0392a",
+      "stack": true,
+      "points": [
+        {
+          "year": 1963,
+          "value": 1756,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1964,
+          "value": 2151,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1965,
+          "value": 2535,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1966,
+          "value": 3194,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1967,
+          "value": 3785,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1968,
+          "value": 4588,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1969,
+          "value": 5574,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1970,
+          "value": 6307,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1971,
+          "value": 6188,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1972,
+          "value": 6497,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1973,
+          "value": 7547,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1974,
+          "value": 9848,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1975,
+          "value": 11497,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1976,
+          "value": 11903,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1977,
+          "value": 13658,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1978,
+          "value": 13858,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1979,
+          "value": 14206,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1980,
+          "value": 13369,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1981,
+          "value": 13017,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1982,
+          "value": 13251,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1983,
+          "value": 12500,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1984,
+          "value": 12952,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1985,
+          "value": 11232,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1986,
+          "value": 10836,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1987,
+          "value": 11095,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1988,
+          "value": 11257,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1989,
+          "value": 10818,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1990,
+          "value": 10987,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1991,
+          "value": 11762,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1992,
+          "value": 11768,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1993,
+          "value": 11787,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1994,
+          "value": 11617,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1995,
+          "value": 10995,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1996,
+          "value": 11122,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1997,
+          "value": 11507,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1998,
+          "value": 11311,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1999,
+          "value": 11406,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 2000,
+          "value": 10900,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2001,
+          "value": 10288,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2002,
+          "value": 10642,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2003,
+          "value": 10104,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2004,
+          "value": 10458,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2005,
+          "value": 10324,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2006,
+          "value": 9870,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2007,
+          "value": 9462,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2008,
+          "value": 9659,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2009,
+          "value": 9216,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2010,
+          "value": 9163,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2011,
+          "value": 8772,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2011"
+        },
+        {
+          "year": 2012,
+          "value": 8556,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2012"
+        },
+        {
+          "year": 2013,
+          "value": 8341,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2013"
+        },
+        {
+          "year": 2014,
+          "value": 8281,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2014"
+        },
+        {
+          "year": 2015,
+          "value": 8120,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2016,
+          "value": 7557,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2017,
+          "value": 7478,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2018,
+          "value": 7527,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2019,
+          "value": 7807,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2020,
+          "value": 8466,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2021,
+          "value": 8747,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2022,
+          "value": 7738,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2023,
+          "value": 7748,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2024,
+          "value": 7300,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2025,
+          "value": 7201,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2025"
+        }
+      ]
+    },
+    {
+      "id": "broadcast",
+      "name": "放送受信料",
+      "code": "880・88A・88B",
+      "color": "#5c564c",
+      "stack": true,
+      "points": [
+        {
+          "year": 1963,
+          "value": 2711,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1964,
+          "value": 2873,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1965,
+          "value": 2895,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1966,
+          "value": 2944,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1967,
+          "value": 2880,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1968,
+          "value": 2816,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1969,
+          "value": 2919,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1970,
+          "value": 2999,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1971,
+          "value": 3340,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1972,
+          "value": 3441,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1973,
+          "value": 3712,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1974,
+          "value": 3808,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1975,
+          "value": 3858,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1976,
+          "value": 5380,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1977,
+          "value": 6281,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1978,
+          "value": 6237,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1979,
+          "value": 6334,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1980,
+          "value": 7474,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1981,
+          "value": 7630,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1982,
+          "value": 7780,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1983,
+          "value": 7869,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1984,
+          "value": 9046,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1985,
+          "value": 9198,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1986,
+          "value": 9172,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1987,
+          "value": 9180,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1988,
+          "value": 9208,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1989,
+          "value": 9612,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1990,
+          "value": 12023,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1991,
+          "value": 13253,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1992,
+          "value": 14356,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1993,
+          "value": 15169,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1994,
+          "value": 15723,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1995,
+          "value": 15621,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1996,
+          "value": 16087,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1997,
+          "value": 17101,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1998,
+          "value": 18758,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        },
+        {
+          "year": 1999,
+          "value": 19025,
+          "segment": "nonfarm",
+          "universe": "nonfarm",
+          "source": "chouki-20-03-a"
+        }
+      ],
+      "note": "2000年より前は内訳が公表されていない。この帯だけを置く。"
+    },
+    {
+      "id": "nhk",
+      "name": "NHK放送受信料",
+      "code": "88A",
+      "color": "#1f4d3a",
+      "stack": true,
+      "points": [
+        {
+          "year": 2000,
+          "value": 14121,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2001,
+          "value": 14494,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2002,
+          "value": 15031,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2003,
+          "value": 14534,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2004,
+          "value": 14243,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2005,
+          "value": 13036,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2006,
+          "value": 12902,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2007,
+          "value": 13447,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2008,
+          "value": 13841,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2009,
+          "value": 13936,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2010,
+          "value": 14274,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2011,
+          "value": 14429,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2011"
+        },
+        {
+          "year": 2012,
+          "value": 13942,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2012"
+        },
+        {
+          "year": 2013,
+          "value": 13311,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2013"
+        },
+        {
+          "year": 2014,
+          "value": 13842,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2014"
+        },
+        {
+          "year": 2015,
+          "value": 14074,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2016,
+          "value": 14370,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2017,
+          "value": 14442,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2018,
+          "value": 14348,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2019,
+          "value": 14479,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2020,
+          "value": 14684,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2021,
+          "value": 14351,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2022,
+          "value": 14342,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2023,
+          "value": 13676,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2024,
+          "value": 12292,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2025,
+          "value": 11957,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2025"
+        }
+      ]
+    },
+    {
+      "id": "other-incl",
+      "name": "他の受信料（ケーブルを含む）",
+      "code": "880",
+      "color": "#6e5a3c",
+      "stack": true,
+      "points": [
+        {
+          "year": 2000,
+          "value": 5827,
+          "segment": "incl-cable",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2001,
+          "value": 6380,
+          "segment": "incl-cable",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        }
+      ],
+      "note": "2000年と2001年だけ。ケーブルはまだ分かれていない。"
+    },
+    {
+      "id": "cable",
+      "name": "ケーブルテレビ放送受信料",
+      "code": "88B",
+      "color": "#2f527a",
+      "stack": true,
+      "points": [
+        {
+          "year": 2002,
+          "value": 5751,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2003,
+          "value": 6634,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2004,
+          "value": 7144,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2005,
+          "value": 7591,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2006,
+          "value": 8472,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2007,
+          "value": 9017,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2008,
+          "value": 9471,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2009,
+          "value": 9317,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2010,
+          "value": 9849,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2011,
+          "value": 9882,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2011"
+        },
+        {
+          "year": 2012,
+          "value": 10375,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2012"
+        },
+        {
+          "year": 2013,
+          "value": 11020,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2013"
+        },
+        {
+          "year": 2014,
+          "value": 11062,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2014"
+        },
+        {
+          "year": 2015,
+          "value": 11204,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2016,
+          "value": 11270,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2017,
+          "value": 11595,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2018,
+          "value": 11363,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2019,
+          "value": 11465,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2020,
+          "value": 12106,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2021,
+          "value": 11298,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2022,
+          "value": 11318,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2023,
+          "value": 11412,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2024,
+          "value": 10808,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2025,
+          "value": 11174,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2025"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "name": "他の放送受信料",
+      "code": "880",
+      "color": "#8a8178",
+      "stack": true,
+      "points": [
+        {
+          "year": 2002,
+          "value": 1703,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2003,
+          "value": 1387,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2004,
+          "value": 1435,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2005,
+          "value": 1312,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2006,
+          "value": 1244,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2007,
+          "value": 1517,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2008,
+          "value": 1527,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2009,
+          "value": 1658,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2010,
+          "value": 1596,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "chouki-20-03-b"
+        },
+        {
+          "year": 2011,
+          "value": 1557,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2011"
+        },
+        {
+          "year": 2012,
+          "value": 1964,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2012"
+        },
+        {
+          "year": 2013,
+          "value": 1862,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2013"
+        },
+        {
+          "year": 2014,
+          "value": 1901,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "nenpou-2014"
+        },
+        {
+          "year": 2015,
+          "value": 1876,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2016,
+          "value": 2167,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2017,
+          "value": 2134,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2018,
+          "value": 2213,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2019,
+          "value": 2045,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2015"
+        },
+        {
+          "year": 2020,
+          "value": 2053,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2021,
+          "value": 1829,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2022,
+          "value": 1784,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2023,
+          "value": 1820,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2024,
+          "value": 1435,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2020"
+        },
+        {
+          "year": 2025,
+          "value": 1511,
+          "segment": "twoplus",
+          "universe": "twoplus",
+          "source": "estat-2025"
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "magazineSumEqualsCombined": "1973?1994",
+    "broadcastPartsEqualTotal": "2000?2025"
+  }
+}

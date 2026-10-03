@@ -1,0 +1,333 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+<title>新聞の発行部数と世帯数の推移｜調査データ｜日本新聞協会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="Description" content="日本新聞協会は、全国の新聞社・通信社・放送局が倫理の向上を目指す自主的な組織として創立されました。声明・見解、新聞界の動向や関連データなどをご覧いただけます。" />
+<meta name="Keywords" content="日本新聞協会,新聞" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<link rel="stylesheet" type="text/css" media="all,screen" href="/common/css/import.css" />
+<link rel="stylesheet" type="text/css" media="all,screen"  href="/common/css/font_m.css" id="fontSize" />
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="/common/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/common/js/jquery.droppy.js"></script>
+<script type="text/javascript" src="/common/js/jquery.matchHeight.js"></script>
+<script type="text/javascript" src="/common/js/common.js"></script>
+
+<script>
+$(function(){
+  var base = $('#cellBase').height();
+  var baseCeil = Math.ceil(base);
+  console.log(base);
+  $(window).on("load", function(){
+    if(window.matchMedia("(max-width: 415px)").matches){
+      $(".num").css({'cssText': 'height: 77px !important;'});
+    }
+    else {
+      /*setTimeout(function(){
+        $('.num').matchHeight();
+      },1000);*/
+      //$('#addBase').css('height', baseCeil + 'px');
+      //$(".num").css({'cssText': 'height: 65px !important;'});
+    }
+  });
+});
+</script>
+<style>
+  .num {
+    height: 65px!important;
+  }
+/*@-moz-document url-prefix() {
+  #addBase {
+    height: 54.6px !important;
+  }
+}
+@media all and (-ms-high-contrast:none){
+  *::-ms-backdrop, #addBase { height: 54.6px !important; } 
+}
+@media all and (-ms-high-contrast:none){
+  #addBase { height: 54.6px !important; } 
+}*/
+.pc {
+    display: table-cell;
+  }
+  .sp {
+    display: none;
+    border: none!important;
+  }
+@media screen and (max-width: 415px){
+  .pc {
+    display: none;
+    border: none!important;
+  }
+  .sp {
+    display: block;
+  }
+  thead.num tr {
+    height: 100%;
+  }
+  thead.num th#addBase {
+    height: 100%;
+  }
+}
+</style>
+</head>
+<body>
+<div id="wrap">
+<div id="header" class="clearfix">
+ <div id="headerInner">
+  <div id="headerId"><a href="/"><img src="/common/images/header_id.gif" alt="一般社団法人 日本新聞協会" /></a></div>
+  <div class="headerClass"><a href="/"><img src="/common/images/header_class.png" width="173" alt="一般社団法人 日本新聞協会" /></a></div>
+  <div class="btnBox"><a href="#" class="btnMenu"><img src="/images/new/btn_menu.png" alt="MENU" width="45"  /></a></div>
+  <div id="headerMain">
+   <div id="headerControl" class="clearfix">
+    <div id="headerNavi">
+     <ul>
+      <li id="naviAccess"><a href="/access/">アクセス</a></li>
+      <li id="naviContact"><a href="/contact/">お問い合わせ</a></li>
+      <li id="naviSitemap"><a href="/sitemap/">サイトマップ</a></li>
+     </ul>
+    </div>
+   </div>
+   <div id="headerInfo">
+	   <div id="headerLang">
+     <ul>
+      <li id="langJa"><a href="/">JP</a></li>
+      <li id="langEn"><a href="/english/">EN</a></li>
+     </ul>
+    </div>
+	     <div id="headerSearch">
+     <form method="get" action="https://www.google.co.jp/search">
+      <input type="text" name="q" maxlength="255" value="" id="search" /><input type="image" name="search_btn" id="search_btn" src="/images/new/search_btn.gif" />
+      <input type="hidden" name="ie" value="uft-8" />
+      <input type="hidden" name="oe" value="utf-8" />
+      <input type="hidden" name="hl" value="ja" />
+      <input type="hidden" name="domains" value="www.pressnet.or.jp" />
+      <input type="hidden" name="sitesearch" value="www.pressnet.or.jp" />
+     </form>
+    </div>
+</div>
+  </div>
+  </div>
+ </div>
+<div id="naviGlobal">
+ <ul>
+	 <li><a href="/about/">当協会について</a>
+   <ul>
+    <li><a href="/about/organization/">組織</a></li>
+    <li><a href="/about/history/">歴代会長・副会長</a></li>
+    <li><a href="/about/article/">定款</a></li>
+    <li><a href="/about/commendation/">表彰事業</a></li>
+    <li><a href="/about/recruitment/">募集事業</a></li>
+    <li><a href="/about/shimbun_shukan/">新聞週間</a></li>
+    <li><a href="/about/standard/">規定・指針・規格</a></li>
+    <li><a href="/about/keigen/">軽減税率の取り組み</a></li>
+    <li><a href="/about/environment/">環境への取り組み</a></li>
+    <li><a href="/about/balancesheet/">財務諸表</a></li>
+    <li><a href="/about/recruit/">職員採用情報</a></li>
+	<!-- <li><a href="/topics/#others">お知らせ</a></li> -->
+   </ul>
+  </li>
+  <li><a href="/topics/">ニュース＆<br>トピックス</a>
+   <ul>
+    <li><a href="/topics/#news">新聞協会ニュース</a></li>
+    <li><a href="/topics/#overseas">海外情報ポータル</a></li>
+    <li><a href="/topics/#shimen">新聞協会報・紙面モニターから</a></li>
+    <li><a href="/topics/#kisha">新聞協会報・地域を伝える</a></li>
+    <!-- <li><a href="/topics/#others">その他・お知らせ</a></li> -->
+   </ul>	  
+  </li>
+  <li><a href="/outline/">倫理綱領</a>
+   <ul>
+    <li><a href="/outline/ethics/">新聞倫理綱領</a></li>
+    <li><a href="/outline/sale/">新聞販売綱領</a></li>
+    <li><a href="/outline/advertisement/">新聞広告倫理綱領/新聞広告掲載基準</a></li>
+   </ul>
+  </li>
+  <li><a href="/statement/">声明・見解</a>
+   <ul>
+    <li><a href="/statement/report/">取材と報道</a></li>
+    <li><a href="/statement/copyright/">著作権</a></li>
+    <li><a href="/statement/sales/">新聞販売</a></li>
+    <li><a href="/statement/privacy/">「個人情報保護法」「特定秘密保護法」など取材に関わる法制</a></li>
+     <li><a href="/statement/education/">新聞の教育活用</a></li>
+     <li><a href="/statement/broadcasting/">通信・放送</a></li>
+     <li><a href="/statement/ai/">生成AI（人工知能）</a></li>
+   </ul>
+  </li>
+  <li><a href="/data/">調査データ</a>
+   <ul>
+    <li><a href="/data/circulation/">発行部数</a></li>
+    <li><a href="/data/advertisement/">新聞広告</a></li>
+    <li><a href="/data/finance/">財務</a></li>
+    <li><a href="/data/paper/">用紙</a></li>
+    <li><a href="/data/employment/">雇用</a></li>
+    <!--<li><a href="/data/reader/">新聞と読者</a></li>-->
+    <li><a href="/data/media/">デジタルメディア</a></li>
+    <li><a href="http://nie.jp/research/" target="_blank"><span>NIEに関する調査</span></a></li>
+   </ul>
+  </li>
+  <li><a href="/publication/">刊行物</a>
+   <ul>
+    <!--<li><a href="/publication/shimen/">新聞協会報・紙面モニターから</a></li>-->
+    <!--<li><a href="/publication/kisha/">新聞協会報・記者駆ける</a></li>-->
+    <li><a href="/publication/kyoukaihou/">新聞協会報</a></li>
+    <li><a href="/publication/kenkyu/">新聞研究</a></li>
+    <!-- <li><a href="/publication/gijutsu/">新聞技術</a></li> -->
+    <!-- <li><a href="/adarc/hou/" target="_blank"><span>新聞広告報</span></a></li> -->
+    <!--<li><a href="/publication/nsk/">NSK経営リポート</a></li>-->
+    <!--li><a href="/english/newsb/">NSK News Bulletin Online(Monthly)</a></li-->
+    <li><a href="/publication/book/">書籍</a></li>
+    <li><a href="/publication/order/">注文方法</a></li>
+    <li><a href="/publication/#anchor01">報告集「新聞技術」</a></li>
+   </ul>
+  </li>
+  <li><a href="/medialink/">メディアリンク</a>
+    <ul>
+      <li><a href="/medialink/copyright/">著作権問い合わせ先</a></li>
+    </ul>
+  </li>
+ </ul>
+</div>
+<nav class="slideMenu">
+  <ul>
+    <li class="first">
+      <div class="headerClass" style="opacity:0;"><a href="/"><img src="/common/images/header_class.png" width="173" alt="一般社団法人 日本新聞協会" /></a></div>
+      <div class="btnBox" style="opacity:0;"><a href="#" class="btnClose"><img src="/common/images/btn_close.png" alt="CLOSE" width="45"  /></a></div>
+    </li>
+    <li class="second"><a href="/topics/">ニュース＆トピックス</a></li>
+    <li><a href="/outline/">倫理綱領</a></li>
+    <li><a href="/statement/">声明・見解</a></li>
+    <li><a href="/data/">調査データ</a></li>
+    <li><a href="/publication/">刊行物</a></li>
+    <li><a href="/medialink/">メディアリンク</a></li>
+    <li><a href="/about/">日本新聞協会について</a></li>
+    <li><a href="/access/">アクセス</a></li>
+    <li><a href="/contact/">お問い合わせ</a></li>
+    <li><a href="/sitemap/">サイトマップ</a></li>
+  </ul>
+</nav>
+ <div id="container" class="clearfix">
+  <div id="content">
+   <div id="topicpath">
+    <ol>
+     <li><a href="/">トップページ</a></li>
+     <li><a href="/data/">調査データ</a></li>
+     <li><a href="/data/circulation/">発行部数</a></li>
+     <li>新聞の発行部数と世帯数の推移</li>
+    </ol>
+   </div>
+   <h1>新聞の発行部数と世帯数の推移</h1>
+   <div id="contentInner">
+	 <p class="parUnit tableClear">各年10月、新聞協会経営業務部調べ<br>(単位＝部）</p>
+    <table class="tblCol tblNum tableLeft">
+      <thead class="num">
+        <tr>
+         <th id="addBase" class="pc" style="border: none;"><br><br><br></th>
+         <th id="addBase" class="sp"><br><br><br></th>
+        </tr>
+      </thead>
+      <tbody>
+    <tr><th>2025年</th></tr><tr><th>2024年</th></tr><tr><th>2023年</th></tr><tr><th>2022年</th></tr><tr><th>2021年</th></tr><tr><th>2020年</th></tr><tr><th>2019年</th></tr><tr><th>2018年</th></tr><tr><th>2017年</th></tr><tr><th>2016年</th></tr><tr><th>2015年</th></tr><tr><th>2014年</th></tr><tr><th>2013年</th></tr><tr><th>2012年</th></tr><tr><th>2011年</th></tr><tr><th>2010年</th></tr><tr><th>2009年</th></tr><tr><th>2008年</th></tr><tr><th>2007年</th></tr><tr><th>2006年</th></tr><tr><th>2005年</th></tr><tr><th>2004年</th></tr><tr><th>2003年</th></tr><tr><th>2002年</th></tr><tr><th>2001年</th></tr><tr><th>2000年</th></tr><tr><th>1999年</th></tr><tr><th>1998年</th></tr><tr><th>1997年</th></tr><tr><th>1996年</th></tr><tr><th>1995年</th></tr><tr><th>1994年</th></tr><tr><th>1993年</th></tr><tr><th>1992年</th></tr><tr><th>1991年</th></tr><tr><th>1990年</th></tr><tr><th>1989年</th></tr><tr><th>1988年</th></tr><tr><th>1987年</th></tr><tr><th>1986年</th></tr><tr><th>1985年</th></tr><tr><th>1984年</th></tr><tr><th>1983年</th></tr><tr><th>1982年</th></tr><tr><th>1981年</th></tr><tr><th>1980年</th></tr><tr><th>1979年</th></tr><tr><th>1978年</th></tr><tr><th>1977年</th></tr><tr><th>1976年</th></tr><tr><th>1975年</th></tr><tr><th>1974年</th></tr><tr><th>1973年</th></tr><tr><th>1972年</th></tr><tr><th>1971年</th></tr><tr><th>1970年</th></tr><tr><th>1969年</th></tr><tr><th>1968年</th></tr><tr><th>1967年</th></tr><tr><th>1966年</th></tr><tr><th>1965年</th></tr>      </tbody>
+    </table>
+    <div class="table-wrap">
+    <table class="tblCol tblNum tableRight">
+     <thead class="num">
+      <tr>
+       <th rowspan="2" id="cellBase">合計</th>
+       <th colspan="2">種類別</th>
+       <th colspan="3">発行形態別</th>
+       <th rowspan="2">1世帯<br />
+       当たり<br />
+       部数</th>
+        <th rowspan="2">世帯数</th>
+      </tr>
+      <tr>
+       <td>一般紙</td>
+       <td>スポーツ紙</td>
+       <td>セット部数</td>
+       <td>朝刊単独部数</td>
+       <td>夕刊単独部数</td>
+      </tr>
+     </thead>
+     <tbody>
+<tr><td>24,868,122</td><td>23,373,706</td><td>1,494,416</td><td>3,375,969</td><td>21,145,804</td><td>346,349</td><td>0.42</td><td>58,955,700</td></tr><tr><td>26,616,578</td><td>24,938,756</td><td>1,677,822</td><td>3,916,505</td><td>22,297,326</td><td>402,747</td><td>0.45</td><td>58,738,888</td></tr><tr><td>28,590,486</td><td>26,674,129</td><td>1,916,357</td><td>4,456,199</td><td>23,681,695</td><td>452,592</td><td>0.49</td><td>58,493,428</td></tr><tr><td>30,846,631</td><td>28,694,915</td><td>2,151,716</td><td>5,928,317</td><td>24,400,468</td><td>517,846</td><td>0.53</td><td>58,226,982</td></tr><tr><td>33,027,135</td><td>30,657,153</td><td>2,369,982</td><td>6,484,982</td><td>25,914,024</td><td>628,129</td><td>0.57</td><td>57,849,163</td></tr><tr><td>35,091,944</td><td>32,454,796</td><td>2,637,148</td><td>7,252,724</td><td>27,064,065</td><td>775,155</td><td>0.61</td><td>57,380,526</td></tr><tr><td>37,811,248</td><td>34,877,964</td><td>2,933,284</td><td>8,422,099</td><td>28,554,249</td><td>834,900</td><td>0.66</td><td>56,996,515</td></tr><tr><td>39,901,576</td><td>36,823,021</td><td>3,078,555</td><td>9,025,146</td><td>29,993,652</td><td>882,778</td><td>0.70</td><td>56,613,999</td></tr><tr><td>42,128,189</td><td>38,763,641</td><td>3,364,548</td><td>9,700,510</td><td>31,487,725</td><td>939,954</td><td>0.75</td><td>56,221,568</td></tr><tr><td>43,276,147</td><td>39,821,106</td><td>3,455,041</td><td>10,413,426</td><td>31,889,399</td><td>973,322</td><td>0.78</td><td>55,811,969</td></tr><tr><td>44,246,688</td><td>40,691,869</td><td>3,554,819</td><td>10,874,446</td><td>32,365,532</td><td>1,006,710</td><td>0.80</td><td>55,364,197</td></tr><tr><td>45,362,672</td><td>41,687,125</td><td>3,675,547</td><td>11,356,360</td><td>32,979,682</td><td>1,026,630</td><td>0.83</td><td>54,952,108</td></tr><tr><td>46,999,468</td><td>43,126,352</td><td>3,873,116</td><td>12,396,510</td><td>33,552,159</td><td>1,050,799</td><td>0.86</td><td>54,594,744</td></tr><tr><td>47,777,913</td><td>43,723,161</td><td>4,054,752</td><td>12,876,612</td><td>33,827,147</td><td>1,074,154</td><td>0.88</td><td>54,171,475</td></tr><tr><td>48,345,304</td><td>44,091,335</td><td>4,253,969</td><td>13,235,658</td><td>33,975,622</td><td>1,134,024</td><td>0.90</td><td>53,549,522</td></tr><tr><td>49,321,840</td><td>44,906,720</td><td>4,415,120</td><td>13,877,495</td><td>34,259,015</td><td>1,185,330</td><td>0.92</td><td>53,362,801</td></tr><tr><td>50,352,831</td><td>45,659,885</td><td>4,692,946</td><td>14,727,162</td><td>34,399,779</td><td>1,225,890</td><td>0.95</td><td>52,877,802</td></tr><tr><td>51,491,409</td><td>46,563,681</td><td>4,927,728</td><td>15,715,332</td><td>34,403,818</td><td>1,372,259</td><td>0.98</td><td>52,324,877</td></tr><tr><td>52,028,671</td><td>46,963,136</td><td>5,065,535</td><td>16,408,728</td><td>34,174,558</td><td>1,445,385</td><td>1.01</td><td>51,713,048</td></tr><tr><td>52,310,478</td><td>47,056,527</td><td>5,253,951</td><td>16,789,314</td><td>34,047,660</td><td>1,473,504</td><td>1.02</td><td>51,102,005</td></tr><tr><td>52,568,032</td><td>47,189,832</td><td>5,378,200</td><td>17,111,533</td><td>33,927,821</td><td>1,528,678</td><td>1.04</td><td>50,382,081</td></tr><tr><td>53,021,564</td><td>47,469,987</td><td>5,551,577</td><td>17,341,993</td><td>34,066,442</td><td>1,613,129</td><td>1.06</td><td>49,837,731</td></tr><tr><td>52,874,959</td><td>47,282,645</td><td>5,592,314</td><td>17,464,928</td><td>33,781,260</td><td>1,628,771</td><td>1.07</td><td>49,260,791</td></tr><tr><td>53,198,444</td><td>47,390,027</td><td>5,808,417</td><td>17,616,627</td><td>33,900,896</td><td>1,680,921</td><td>1.09</td><td>48,637,789</td></tr><tr><td>53,680,753</td><td>47,559,052</td><td>6,121,701</td><td>18,013,395</td><td>33,862,600</td><td>1,804,758</td><td>1.12</td><td>48,015,251</td></tr><tr><td>53,708,831</td><td>47,401,669</td><td>6,307,162</td><td>18,187,498</td><td>33,702,727</td><td>1,818,606</td><td>1.13</td><td>47,419,905</td></tr><tr><td>53,757,281</td><td>47,464,599</td><td>6,292,682</td><td>18,460,759</td><td>33,381,465</td><td>1,915,057</td><td>1.15</td><td>46,811,712</td></tr><tr><td>53,669,866</td><td>47,289,617</td><td>6,380,249</td><td>18,739,890</td><td>32,952,880</td><td>1,977,096</td><td>1.16</td><td>46,156,796</td></tr><tr><td>53,765,074</td><td>47,262,982</td><td>6,502,092</td><td>18,933,926</td><td>32,841,903</td><td>1,989,245</td><td>1.18</td><td>45,498,173</td></tr><tr><td>53,555,803</td><td>46,975,839</td><td>6,579,964</td><td>19,149,499</td><td>32,421,288</td><td>1,985,016</td><td>1.19</td><td>44,830,961</td></tr><tr><td>52,854,538</td><td>46,511,872</td><td>6,342,666</td><td>19,192,139</td><td>31,645,109</td><td>2,017,290</td><td>1.19</td><td>44,235,735</td></tr><tr><td>52,600,502</td><td>46,224,993</td><td>6,375,509</td><td>19,323,903</td><td>31,269,026</td><td>2,007,573</td><td>1.20</td><td>43,665,843</td></tr><tr><td>52,433,451</td><td>46,072,744</td><td>6,360,707</td><td>19,609,860</td><td>30,780,669</td><td>2,042,922</td><td>1.22</td><td>43,077,126</td></tr><tr><td>51,938,092</td><td>45,748,937</td><td>6,189,155</td><td>19,752,398</td><td>30,195,529</td><td>1,990,165</td><td>1.22</td><td>42,457,975</td></tr><tr><td>52,026,372</td><td>46,029,154</td><td>5,997,218</td><td>20,510,091</td><td>29,551,973</td><td>1,964,308</td><td>1.24</td><td>41,797,445</td></tr><tr><td>51,907,538</td><td>46,059,774</td><td>5,847,764</td><td>20,616,337</td><td>29,268,208</td><td>2,022,993</td><td>1.26</td><td>41,156,485</td></tr><tr><td>51,063,353</td><td>45,351,852</td><td>5,711,501</td><td>20,393,722</td><td>28,711,768</td><td>1,957,863</td><td>1.26</td><td>40,561,404</td></tr><tr><td>50,597,565</td><td>44,960,104</td><td>5,637,461</td><td>20,573,993</td><td>28,041,577</td><td>1,981,995</td><td>1.26</td><td>40,025,087</td></tr><tr><td>49,831,896</td><td>44,250,975</td><td>5,580,921</td><td>20,361,672</td><td>27,457,961</td><td>2,012,263</td><td>1.26</td><td>39,536,307</td></tr><tr><td>48,569,364</td><td>43,074,181</td><td>5,495,183</td><td>20,084,045</td><td>26,453,918</td><td>2,031,401</td><td>1.25</td><td>38,987,773</td></tr><tr><td>48,231,671</td><td>42,673,198</td><td>5,558,473</td><td>20,064,803</td><td>26,038,088</td><td>2,128,780</td><td>1.25</td><td>38,457,479</td></tr><tr><td>47,515,488</td><td>42,096,162</td><td>5,419,326</td><td>19,864,756</td><td>25,545,381</td><td>2,105,351</td><td>1.25</td><td>37,934,575</td></tr><tr><td>47,040,709</td><td>41,616,862</td><td>5,423,847</td><td>19,741,291</td><td>25,196,329</td><td>2,103,089</td><td>1.26</td><td>37,425,866</td></tr><tr><td>47,993,030</td><td>42,166,062</td><td>5,826,968</td><td>20,149,115</td><td>25,679,133</td><td>2,164,782</td><td>1.30</td><td>36,859,200</td></tr><tr><td>47,256,150</td><td>41,639,715</td><td>5,616,435</td><td>20,036,413</td><td>24,935,353</td><td>2,284,384</td><td>1.30</td><td>36,346,662</td></tr><tr><td>46,391,096</td><td>40,944,751</td><td>5,446,345</td><td>19,865,790</td><td>24,270,632</td><td>2,254,674</td><td>1.29</td><td>35,830,857</td></tr><tr><td>45,851,852</td><td>40,476,282</td><td>5,375,570</td><td>20,028,650</td><td>23,510,031</td><td>2,313,171</td><td>1.30</td><td>35,349,573</td></tr><tr><td>44,276,615</td><td>39,228,302</td><td>5,048,313</td><td>19,455,647</td><td>22,580,681</td><td>2,240,287</td><td>1.27</td><td>34,858,696</td></tr><tr><td>43,113,521</td><td>38,127,716</td><td>4,985,805</td><td>19,107,123</td><td>21,786,635</td><td>2,219,763</td><td>1.25</td><td>34,380,314</td></tr><tr><td>42,119,566</td><td>37,371,351</td><td>4,748,215</td><td>18,662,297</td><td>21,205,533</td><td>2,251,736</td><td>1.24</td><td>33,911,052</td></tr><tr><td>40,512,598</td><td>35,921,496</td><td>4,591,102</td><td>18,067,016</td><td>20,242,379</td><td>2,203,203</td><td>1.22</td><td>33,310,006</td></tr><tr><td>40,005,526</td><td>35,412,951</td><td>4,592,575</td><td>17,814,893</td><td>19,874,190</td><td>2,316,443</td><td>1.23</td><td>32,627,792</td></tr><tr><td>39,847,332</td><td>35,199,798</td><td>4,647,534</td><td>18,169,036</td><td>19,429,468</td><td>2,248,828</td><td>1.25</td><td>31,907,782</td></tr><tr><td>38,162,063</td><td>33,797,786</td><td>4,364,277</td><td>17,682,995</td><td>18,187,184</td><td>2,291,884</td><td>1.23</td><td>31,095,679</td></tr><tr><td>36,562,450</td><td>32,399,739</td><td>4,162,711</td><td>16,839,364</td><td>17,506,545</td><td>2,216,541</td><td>1.22</td><td>30,027,454</td></tr><tr><td>36,303,928</td><td>31,875,907</td><td>4,428,021</td><td>16,718,956</td><td>17,187,422</td><td>2,397,550</td><td>1.24</td><td>29,146,288</td></tr><tr><td>35,073,213</td><td>30,646,021</td><td>4,427,192</td><td>16,424,536</td><td>16,485,805</td><td>2,162,872</td><td>1.24</td><td>28,205,976</td></tr><tr><td>33,792,078</td><td>29,750,759</td><td>4,041,319</td><td>15,912,263</td><td>15,812,779</td><td>2,067,036</td><td>1.25</td><td>27,115,298</td></tr><tr><td>32,447,141</td><td>28,556,314</td><td>3,890,827</td><td>15,108,249</td><td>15,182,391</td><td>2,156,501</td><td>1.23</td><td>26,403,437</td></tr><tr><td>30,935,235</td><td>27,367,031</td><td>3,568,204</td><td>14,464,094</td><td>14,339,285</td><td>2,131,856</td><td>1.21</td><td>25,520,079</td></tr><tr><td>29,776,465</td><td>26,794,713</td><td>2,981,752</td><td>14,357,769</td><td>13,455,830</td><td>1,962,866</td><td>1.20</td><td>24,748,550</td></tr>     </tbody>
+    </table>
+    </div>
+     <p class="parUnit tableClear"></p>
+    <ul>
+     <li>朝夕刊セットを1部として計算</li>
+     <li>セット紙を朝・夕刊別に数えた場合は、28,244,091部（2025年10月現在）</li>
+     <li>世帯数は2014年から1月1日現在、13年までは3月31日現在の住民基本台帳による</li>
+    </ul>
+   </div>
+  </div>
+	<div id="side">
+ <h2 class="pc"><a href="/data/"><img src="/data/images/side_title.gif" alt="調査データ" /></a></h2>
+ <h2 class="sp"><a href="/data/"><img src="/data/images/side_title_sp.gif" alt="調査データ" /></a></h2>
+ <div id="sideNavi">
+  <ul>
+   <li><a href="/data/circulation/">発行部数</a></li>
+   <li><a href="/data/advertisement/">新聞広告</a></li>
+   <li><a href="/data/finance/">財務</a></li>
+   <li><a href="/data/paper/">用紙</a></li>
+   <li><a href="/data/employment/">雇用</a></li>
+   <!--li><a href="/data/reader/">新聞と読者</a></li-->
+   <li><a href="/data/media/">デジタルメディア</a></li>
+   <li class="end"><a href="http://nie.jp/research/" target="_blank"><span>NIEに関する調査</span></a></li>
+  </ul>
+ </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ </div>
+<div id="anchorTop"><a href="#pageTop">ページの先頭へ</a></div>  <div id="footer">
+    <div class="inner"><div id="footerAddress">
+      <address>
+        <p class="title">一般社団法人 日本新聞協会</p>
+        <p>〒100-8543 東京都千代田区内幸町2-2-1 <br>TEL：03-3591-4401</p>
+      </address>
+      <ul class="clearfix">
+        <li><a href="/privacy_policy/">プライバシーポリシー</a></li>
+      </ul>
+    </div>
+    <div id="footerCopyright">
+      <p>「Pressnet」に掲載している記事・写真・図表などの無断転載を禁止します<br />
+      すべての著作権は、日本新聞協会に帰属します<br />
+      転載を希望される場合は、日本新聞協会出版広報部出版広報担当にご連絡ください</p>
+      <p class="copyright">Copyright Nihon Shinbun Kyokai. All rights reserved. </p>
+    </div></div>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,821 @@
+{
+  "question": "日本人はどのメディアを信じてきたか",
+  "stat": "新聞通信調査会「メディアに関する全国世論調査」",
+  "unit": "点",
+  "scale": "全面的に信頼している場合を100点、普通を50点、全く信頼していない場合を0点とした平均点",
+  "yearStart": 2008,
+  "yearEnd": 2025,
+  "index": "https://www.chosakai.gr.jp/project/notification/",
+  "excluded": "諸外国における対日メディア世論調査",
+  "unconfirmed": [
+    "100点・50点・0点の得点の作り方が変わった年。各回の本文には同じ説明があるが、変わった年は確認できないので線は切っていない。"
+  ],
+  "rounds": [
+    {
+      "round": 1,
+      "year": 2008,
+      "fieldwork": "2008年12月11日～12月23日",
+      "released": "2009年3月6日",
+      "pdf": "https://www.chosakai.gr.jp/wp/wp-content/themes/shinbun/asset/pdf/project/notification/jpyoronreport01-2008.pdf",
+      "file": "r01-0.pdf"
+    },
+    {
+      "round": 2,
+      "year": 2009,
+      "fieldwork": "2009年9月11日～9月30日",
+      "released": "2010年1月23日",
+      "pdf": "https://www.chosakai.gr.jp/wp/wp-content/themes/shinbun/asset/pdf/project/notification/jpyoronreport02-2009.pdf",
+      "file": "r02-0.pdf"
+    },
+    {
+      "round": 3,
+      "year": 2010,
+      "fieldwork": "2010年10月29日～11月17日",
+      "released": "2011年1月22日",
+      "pdf": "https://www.chosakai.gr.jp/wp/wp-content/themes/shinbun/asset/pdf/project/notification/jpyoronreport03-2010.pdf",
+      "file": "r03-0.pdf"
+    },
+    {
+      "round": 4,
+      "year": 2011,
+      "fieldwork": "2011年8月26日～9月13日",
+      "released": "2011年11月26日",
+      "pdf": "https://www.chosakai.gr.jp/wp/wp-content/themes/shinbun/asset/pdf/project/notification/jpyoronreport04-2011.pdf",
+      "file": "r04-0.pdf"
+    },
+    {
+      "round": 5,
+      "year": 2012,
+      "fieldwork": "2012年8月24日～9月11日",
+      "released": "2012年11月24日",
+      "pdf": "https://www.chosakai.gr.jp/wp/wp-content/themes/shinbun/asset/pdf/project/notification/jpyoronreport05-2012.pdf",
+      "file": "r05-0.pdf"
+    },
+    {
+      "round": 6,
+      "year": 2013,
+      "fieldwork": "2013年8月23日～9月10日",
+      "released": "2013年11月27日",
+      "pdf": "https://www.chosakai.gr.jp/wp/wp-content/themes/shinbun/asset/pdf/project/notification/jpyoronreport06-2013.pdf",
+      "file": "r06-0.pdf"
+    },
+    {
+      "round": 7,
+      "year": 2014,
+      "fieldwork": "2014年8月22日～9月9日",
+      "released": "2014年10月18日",
+      "pdf": "https://www.chosakai.gr.jp/wp/wp-content/themes/shinbun/asset/pdf/project/notification/jpyoronreport07-2014.pdf",
+      "file": "r07-0.pdf"
+    },
+    {
+      "round": 8,
+      "year": 2015,
+      "fieldwork": "2015年8月21日～9月8日",
+      "released": "2015年10月24日",
+      "pdf": "https://www.chosakai.gr.jp/wp/wp-content/themes/shinbun/asset/pdf/project/notification/jpyoronreport08-2015.pdf",
+      "file": "r08-0.pdf"
+    },
+    {
+      "round": 9,
+      "year": 2016,
+      "fieldwork": "2016年8月19日～9月6日",
+      "released": "2016年10月23日",
+      "pdf": "https://www.chosakai.gr.jp/wp/wp-content/themes/shinbun/asset/pdf/project/notification/jpyoronreport09-2016.pdf",
+      "file": "r09-0.pdf"
+    },
+    {
+      "round": 10,
+      "year": 2017,
+      "fieldwork": "2017年11月2日～11月21日",
+      "released": "2018年1月20日",
+      "pdf": "https://www.chosakai.gr.jp/wp/wp-content/themes/shinbun/asset/pdf/project/notification/jpyoronreport10-2017.pdf",
+      "file": "r10-0.pdf"
+    },
+    {
+      "round": 11,
+      "year": 2018,
+      "fieldwork": "2018年8月17日～9月4日",
+      "released": "2018年10月27日",
+      "pdf": "https://www.chosakai.gr.jp/wp/wp-content/themes/shinbun/asset/pdf/project/notification/yoron2018hokoku.pdf",
+      "file": "r11-1.pdf"
+    },
+    {
+      "round": 12,
+      "year": 2019,
+      "fieldwork": "2019年8月23日～9月10日",
+      "released": "2019年11月2日",
+      "pdf": "https://www.chosakai.gr.jp/wp/wp-content/themes/shinbun/asset/pdf/project/notification/yoron2019hokoku_b.pdf",
+      "file": "r12-1.pdf"
+    },
+    {
+      "round": 13,
+      "year": 2020,
+      "fieldwork": "2020年10月30日～11月17日",
+      "released": "2021年1月23日",
+      "pdf": "https://www.chosakai.gr.jp/wp/wp-content/themes/shinbun/asset/pdf/project/notification/yoron2020hokoku.pdf",
+      "file": "r13-1.pdf"
+    },
+    {
+      "round": 14,
+      "year": 2021,
+      "fieldwork": "2021年8月27日～9月14日",
+      "released": "2021年11月13日",
+      "pdf": "https://www.chosakai.gr.jp/wp/wp-content/themes/shinbun/asset/pdf/project/notification/yoron2021houkoku.pdf",
+      "file": "r14-1.pdf"
+    },
+    {
+      "round": 15,
+      "year": 2022,
+      "fieldwork": "2022年8月26日～9月13日",
+      "released": "2022年11月13日",
+      "pdf": "https://www.chosakai.gr.jp/wp/wp-content/themes/shinbun/asset/pdf/project/notification/yoron2022houkoku.pdf",
+      "file": "r15-1.pdf"
+    },
+    {
+      "round": 16,
+      "year": 2023,
+      "fieldwork": "2023年7月21日～8月20日",
+      "released": "2023年10月14日",
+      "pdf": "https://www.chosakai.gr.jp/wp/wp-content/themes/shinbun/asset/pdf/project/notification/yoron2023houkoku.pdf",
+      "file": "r16-1.pdf"
+    },
+    {
+      "round": 17,
+      "year": 2024,
+      "fieldwork": "2024年7月19日～8月18日",
+      "released": "2024年10月12日",
+      "pdf": "https://www.chosakai.gr.jp/wp/wp-content/uploads/2024/10/%E2%97%8F%E7%AC%AC17%E5%9B%9E%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%85%A8%E5%9B%BD%E4%B8%96%E8%AB%96%E8%AA%BF%E6%9F%BB%EF%BC%882024%E5%B9%B4%EF%BC%89%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+      "file": "r17-1.pdf"
+    },
+    {
+      "round": 18,
+      "year": 2025,
+      "fieldwork": "2025年7月18日～8月17日",
+      "released": "2025年10月11日",
+      "pdf": "https://www.chosakai.gr.jp/wp/wp-content/uploads/2025/10/b59382cc4355991fa8fde255b55252d4.pdf",
+      "file": "r18-1.pdf"
+    }
+  ],
+  "series": {
+    "nhk": [
+      {
+        "year": 2008,
+        "value": 74.0,
+        "segment": "score",
+        "source": "r01-0.pdf"
+      },
+      {
+        "year": 2009,
+        "value": 73.5,
+        "segment": "score",
+        "source": "r02-0.pdf"
+      },
+      {
+        "year": 2010,
+        "value": 73.5,
+        "segment": "score",
+        "source": "r03-0.pdf"
+      },
+      {
+        "year": 2011,
+        "value": 74.3,
+        "segment": "score",
+        "source": "r04-0.pdf"
+      },
+      {
+        "year": 2012,
+        "value": 70.1,
+        "segment": "score",
+        "source": "r05-0.pdf"
+      },
+      {
+        "year": 2013,
+        "value": 72.5,
+        "segment": "score",
+        "source": "r06-0.pdf"
+      },
+      {
+        "year": 2014,
+        "value": 71.1,
+        "segment": "score",
+        "source": "r07-0.pdf"
+      },
+      {
+        "year": 2015,
+        "value": 70.2,
+        "segment": "score",
+        "source": "r08-0.pdf"
+      },
+      {
+        "year": 2016,
+        "value": 69.8,
+        "segment": "score",
+        "source": "r09-0.pdf"
+      },
+      {
+        "year": 2017,
+        "value": 70.0,
+        "segment": "score",
+        "source": "r10-0.pdf"
+      },
+      {
+        "year": 2018,
+        "value": 70.8,
+        "segment": "score",
+        "source": "r11-1.pdf"
+      },
+      {
+        "year": 2019,
+        "value": 68.5,
+        "segment": "score",
+        "source": "r12-1.pdf"
+      },
+      {
+        "year": 2020,
+        "value": 69.0,
+        "segment": "score",
+        "source": "r13-1.pdf"
+      },
+      {
+        "year": 2021,
+        "value": 69.0,
+        "segment": "score",
+        "source": "r14-1.pdf"
+      },
+      {
+        "year": 2022,
+        "value": 67.4,
+        "segment": "score",
+        "source": "r15-1.pdf"
+      },
+      {
+        "year": 2023,
+        "value": 67.0,
+        "segment": "score",
+        "source": "r16-1.pdf"
+      },
+      {
+        "year": 2024,
+        "value": 66.7,
+        "segment": "score",
+        "source": "r17-1.pdf"
+      },
+      {
+        "year": 2025,
+        "value": 66.8,
+        "segment": "score",
+        "source": "r18-1.pdf"
+      }
+    ],
+    "newspaper": [
+      {
+        "year": 2008,
+        "value": 72.0,
+        "segment": "score",
+        "source": "r01-0.pdf"
+      },
+      {
+        "year": 2009,
+        "value": 70.9,
+        "segment": "score",
+        "source": "r02-0.pdf"
+      },
+      {
+        "year": 2010,
+        "value": 72.0,
+        "segment": "score",
+        "source": "r03-0.pdf"
+      },
+      {
+        "year": 2011,
+        "value": 72.0,
+        "segment": "score",
+        "source": "r04-0.pdf"
+      },
+      {
+        "year": 2012,
+        "value": 68.9,
+        "segment": "score",
+        "source": "r05-0.pdf"
+      },
+      {
+        "year": 2013,
+        "value": 70.7,
+        "segment": "score",
+        "source": "r06-0.pdf"
+      },
+      {
+        "year": 2014,
+        "value": 69.2,
+        "segment": "score",
+        "source": "r07-0.pdf"
+      },
+      {
+        "year": 2015,
+        "value": 69.4,
+        "segment": "score",
+        "source": "r08-0.pdf"
+      },
+      {
+        "year": 2016,
+        "value": 68.6,
+        "segment": "score",
+        "source": "r09-0.pdf"
+      },
+      {
+        "year": 2017,
+        "value": 68.7,
+        "segment": "score",
+        "source": "r10-0.pdf"
+      },
+      {
+        "year": 2018,
+        "value": 69.6,
+        "segment": "score",
+        "source": "r11-1.pdf"
+      },
+      {
+        "year": 2019,
+        "value": 68.9,
+        "segment": "score",
+        "source": "r12-1.pdf"
+      },
+      {
+        "year": 2020,
+        "value": 69.2,
+        "segment": "score",
+        "source": "r13-1.pdf"
+      },
+      {
+        "year": 2021,
+        "value": 67.7,
+        "segment": "score",
+        "source": "r14-1.pdf"
+      },
+      {
+        "year": 2022,
+        "value": 67.1,
+        "segment": "score",
+        "source": "r15-1.pdf"
+      },
+      {
+        "year": 2023,
+        "value": 66.5,
+        "segment": "score",
+        "source": "r16-1.pdf"
+      },
+      {
+        "year": 2024,
+        "value": 65.9,
+        "segment": "score",
+        "source": "r17-1.pdf"
+      },
+      {
+        "year": 2025,
+        "value": 66.2,
+        "segment": "score",
+        "source": "r18-1.pdf"
+      }
+    ],
+    "commercial": [
+      {
+        "year": 2008,
+        "value": 65.4,
+        "segment": "score",
+        "source": "r01-0.pdf"
+      },
+      {
+        "year": 2009,
+        "value": 63.6,
+        "segment": "score",
+        "source": "r02-0.pdf"
+      },
+      {
+        "year": 2010,
+        "value": 65.3,
+        "segment": "score",
+        "source": "r03-0.pdf"
+      },
+      {
+        "year": 2011,
+        "value": 63.8,
+        "segment": "score",
+        "source": "r04-0.pdf"
+      },
+      {
+        "year": 2012,
+        "value": 60.3,
+        "segment": "score",
+        "source": "r05-0.pdf"
+      },
+      {
+        "year": 2013,
+        "value": 60.4,
+        "segment": "score",
+        "source": "r06-0.pdf"
+      },
+      {
+        "year": 2014,
+        "value": 60.2,
+        "segment": "score",
+        "source": "r07-0.pdf"
+      },
+      {
+        "year": 2015,
+        "value": 61.0,
+        "segment": "score",
+        "source": "r08-0.pdf"
+      },
+      {
+        "year": 2016,
+        "value": 59.1,
+        "segment": "score",
+        "source": "r09-0.pdf"
+      },
+      {
+        "year": 2017,
+        "value": 59.2,
+        "segment": "score",
+        "source": "r10-0.pdf"
+      },
+      {
+        "year": 2018,
+        "value": 62.9,
+        "segment": "score",
+        "source": "r11-1.pdf"
+      },
+      {
+        "year": 2019,
+        "value": 62.9,
+        "segment": "score",
+        "source": "r12-1.pdf"
+      },
+      {
+        "year": 2020,
+        "value": 62.0,
+        "segment": "score",
+        "source": "r13-1.pdf"
+      },
+      {
+        "year": 2021,
+        "value": 61.3,
+        "segment": "score",
+        "source": "r14-1.pdf"
+      },
+      {
+        "year": 2022,
+        "value": 62.1,
+        "segment": "score",
+        "source": "r15-1.pdf"
+      },
+      {
+        "year": 2023,
+        "value": 61.8,
+        "segment": "score",
+        "source": "r16-1.pdf"
+      },
+      {
+        "year": 2024,
+        "value": 60.4,
+        "segment": "score",
+        "source": "r17-1.pdf"
+      },
+      {
+        "year": 2025,
+        "value": 60.1,
+        "segment": "score",
+        "source": "r18-1.pdf"
+      }
+    ],
+    "radio": [
+      {
+        "year": 2008,
+        "value": 63.6,
+        "segment": "score",
+        "source": "r01-0.pdf"
+      },
+      {
+        "year": 2009,
+        "value": 61.6,
+        "segment": "score",
+        "source": "r02-0.pdf"
+      },
+      {
+        "year": 2010,
+        "value": 61.6,
+        "segment": "score",
+        "source": "r03-0.pdf"
+      },
+      {
+        "year": 2011,
+        "value": 63.1,
+        "segment": "score",
+        "source": "r04-0.pdf"
+      },
+      {
+        "year": 2012,
+        "value": 58.6,
+        "segment": "score",
+        "source": "r05-0.pdf"
+      },
+      {
+        "year": 2013,
+        "value": 60.6,
+        "segment": "score",
+        "source": "r06-0.pdf"
+      },
+      {
+        "year": 2014,
+        "value": 59.7,
+        "segment": "score",
+        "source": "r07-0.pdf"
+      },
+      {
+        "year": 2015,
+        "value": 59.7,
+        "segment": "score",
+        "source": "r08-0.pdf"
+      },
+      {
+        "year": 2016,
+        "value": 57.6,
+        "segment": "score",
+        "source": "r09-0.pdf"
+      },
+      {
+        "year": 2017,
+        "value": 58.2,
+        "segment": "score",
+        "source": "r10-0.pdf"
+      },
+      {
+        "year": 2018,
+        "value": 57.2,
+        "segment": "score",
+        "source": "r11-1.pdf"
+      },
+      {
+        "year": 2019,
+        "value": 56.2,
+        "segment": "score",
+        "source": "r12-1.pdf"
+      },
+      {
+        "year": 2020,
+        "value": 55.3,
+        "segment": "score",
+        "source": "r13-1.pdf"
+      },
+      {
+        "year": 2021,
+        "value": 55.4,
+        "segment": "score",
+        "source": "r14-1.pdf"
+      },
+      {
+        "year": 2022,
+        "value": 55.1,
+        "segment": "score",
+        "source": "r15-1.pdf"
+      },
+      {
+        "year": 2023,
+        "value": 55.2,
+        "segment": "score",
+        "source": "r16-1.pdf"
+      },
+      {
+        "year": 2024,
+        "value": 54.1,
+        "segment": "score",
+        "source": "r17-1.pdf"
+      },
+      {
+        "year": 2025,
+        "value": 55.4,
+        "segment": "score",
+        "source": "r18-1.pdf"
+      }
+    ],
+    "internet": [
+      {
+        "year": 2008,
+        "value": 58.0,
+        "segment": "score",
+        "source": "r01-0.pdf"
+      },
+      {
+        "year": 2009,
+        "value": 58.2,
+        "segment": "score",
+        "source": "r02-0.pdf"
+      },
+      {
+        "year": 2010,
+        "value": 58.0,
+        "segment": "score",
+        "source": "r03-0.pdf"
+      },
+      {
+        "year": 2011,
+        "value": 56.3,
+        "segment": "score",
+        "source": "r04-0.pdf"
+      },
+      {
+        "year": 2012,
+        "value": 53.3,
+        "segment": "score",
+        "source": "r05-0.pdf"
+      },
+      {
+        "year": 2013,
+        "value": 54.1,
+        "segment": "score",
+        "source": "r06-0.pdf"
+      },
+      {
+        "year": 2014,
+        "value": 54.0,
+        "segment": "score",
+        "source": "r07-0.pdf"
+      },
+      {
+        "year": 2015,
+        "value": 53.7,
+        "segment": "score",
+        "source": "r08-0.pdf"
+      },
+      {
+        "year": 2016,
+        "value": 53.5,
+        "segment": "score",
+        "source": "r09-0.pdf"
+      },
+      {
+        "year": 2017,
+        "value": 51.4,
+        "segment": "score",
+        "source": "r10-0.pdf"
+      },
+      {
+        "year": 2018,
+        "value": 49.4,
+        "segment": "score",
+        "source": "r11-1.pdf"
+      },
+      {
+        "year": 2019,
+        "value": 48.6,
+        "segment": "score",
+        "source": "r12-1.pdf"
+      },
+      {
+        "year": 2020,
+        "value": 49.7,
+        "segment": "score",
+        "source": "r13-1.pdf"
+      },
+      {
+        "year": 2021,
+        "value": 49.2,
+        "segment": "score",
+        "source": "r14-1.pdf"
+      },
+      {
+        "year": 2022,
+        "value": 48.9,
+        "segment": "score",
+        "source": "r15-1.pdf"
+      },
+      {
+        "year": 2023,
+        "value": 49.5,
+        "segment": "score",
+        "source": "r16-1.pdf"
+      },
+      {
+        "year": 2024,
+        "value": 48.5,
+        "segment": "score",
+        "source": "r17-1.pdf"
+      },
+      {
+        "year": 2025,
+        "value": 47.4,
+        "segment": "score",
+        "source": "r18-1.pdf"
+      }
+    ],
+    "magazine": [
+      {
+        "year": 2008,
+        "value": 48.2,
+        "segment": "score",
+        "source": "r01-0.pdf"
+      },
+      {
+        "year": 2009,
+        "value": 46.4,
+        "segment": "score",
+        "source": "r02-0.pdf"
+      },
+      {
+        "year": 2010,
+        "value": 47.1,
+        "segment": "score",
+        "source": "r03-0.pdf"
+      },
+      {
+        "year": 2011,
+        "value": 44.1,
+        "segment": "score",
+        "source": "r04-0.pdf"
+      },
+      {
+        "year": 2012,
+        "value": 44.6,
+        "segment": "score",
+        "source": "r05-0.pdf"
+      },
+      {
+        "year": 2013,
+        "value": 44.7,
+        "segment": "score",
+        "source": "r06-0.pdf"
+      },
+      {
+        "year": 2014,
+        "value": 44.3,
+        "segment": "score",
+        "source": "r07-0.pdf"
+      },
+      {
+        "year": 2015,
+        "value": 45.5,
+        "segment": "score",
+        "source": "r08-0.pdf"
+      },
+      {
+        "year": 2016,
+        "value": 44.7,
+        "segment": "score",
+        "source": "r09-0.pdf"
+      },
+      {
+        "year": 2017,
+        "value": 45.0,
+        "segment": "score",
+        "source": "r10-0.pdf"
+      },
+      {
+        "year": 2018,
+        "value": 43.1,
+        "segment": "score",
+        "source": "r11-1.pdf"
+      },
+      {
+        "year": 2019,
+        "value": 41.8,
+        "segment": "score",
+        "source": "r12-1.pdf"
+      },
+      {
+        "year": 2020,
+        "value": 42.2,
+        "segment": "score",
+        "source": "r13-1.pdf"
+      },
+      {
+        "year": 2021,
+        "value": 42.3,
+        "segment": "score",
+        "source": "r14-1.pdf"
+      },
+      {
+        "year": 2022,
+        "value": 42.1,
+        "segment": "score",
+        "source": "r15-1.pdf"
+      },
+      {
+        "year": 2023,
+        "value": 42.8,
+        "segment": "score",
+        "source": "r16-1.pdf"
+      },
+      {
+        "year": 2024,
+        "value": 41.1,
+        "segment": "score",
+        "source": "r17-1.pdf"
+      },
+      {
+        "year": 2025,
+        "value": 42.0,
+        "segment": "score",
+        "source": "r18-1.pdf"
+      }
+    ]
+  }
+}
