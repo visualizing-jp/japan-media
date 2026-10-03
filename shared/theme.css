@@ -213,15 +213,15 @@ body:has(.page) {
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  background: transparent;
+  background: var(--plate);
   color: var(--ink);
-  transition: transform 240ms var(--ease-out);
 }
 .card-icon {
   display: block;
-  width: 64px;
-  height: 64px;
+  width: 80px;
+  height: 80px;
   overflow: visible;
+  transition: transform 240ms var(--ease-out);
 }
 .card-icon :is(path, circle, rect, line, polyline) {
   fill: none;
@@ -563,14 +563,14 @@ table.years td.gap { color: var(--faint); }
   .viz-by:hover,
   .logo:hover { color: var(--ink); }
   .card:hover .card-title { color: var(--accent); }
-  .card:hover .card-art { transform: scale(1.03); }
+  .card:hover .card-icon { transform: scale(1.03); }
   .source a:hover { color: var(--ink); }
 }
 
 @media (prefers-reduced-motion: reduce) {
   .cards li { animation: none; }
   .card,
-  .card-art,
+  .card-icon,
   .card-title,
   .back-arrow,
   .view,
@@ -580,6 +580,6 @@ table.years td.gap { color: var(--faint); }
   .card:active,
   .legend button:active,
   .view:active,
-  .card:hover .card-art,
+  .card:hover .card-icon,
   .back:hover .back-arrow { transform: none; }
 }
